@@ -1,0 +1,50 @@
+# .rubocop.yml
+
+# AllCops section defines general settings for all cops
+AllCops:
+  TargetRubyVersion: 2.6.5 # Target Ruby version for the project
+  DisplayCopNames: true  # Display cop names in offense messages
+  ExtraDetails: true     # Display extra details in offense messages
+  Exclude:
+    - 'vendor/**/*'      # Exclude vendor directory
+    - 'db/schema.rb'     # Exclude database schema
+    - 'tmp/**/*'          # Exclude temporary files
+
+# Layout/LineLength cop settings
+Layout/LineLength:
+  Enabled: true
+  Max: 200               # Adjust this based on your team's preference
+
+# Naming/FileName cop settings
+Naming/FileName:
+  Enabled: true
+  IgnorePunctuation: true
+
+# Style/FrozenStringLiteralComment cop settings
+Style/FrozenStringLiteralComment:
+  Enabled: true
+  EnforcedStyle: always
+
+# Metrics/AbcSize cop settings
+Metrics/AbcSize:
+  Enabled: true
+  Max: 30                # Adjust this based on your team's preference
+
+Metrics/MethodLength:
+  Max: 30  # Adjust the value as needed
+# Style/Documentation cop settings
+Style/Documentation:
+  Enabled: true
+  MissingRequire: false # Adjust as needed for your project
+
+Metrics/CyclomaticComplexity:
+  Max: 30
+# Other cops and settings...
+
+# Autocorrect settings
+AllCops:
+  AutoCorrect: true
+
+# Additional gems for specific cops
+require:
+  - rubocop-rails

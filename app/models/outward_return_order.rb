@@ -1,0 +1,2 @@
+class OutwardReturnOrder < ApplicationRecord
+end

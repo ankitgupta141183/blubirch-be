@@ -1,0 +1,27 @@
+Category L1,Category L2,Grade Precedence,Grade,Item Condition,Functional,Physical,Packaging,Accessories
+Large Appliances,Air Conditioners,0,New,NA,NA,NA,Seal Pack,NA
+Entertainment,Home Theatre,1,Open Box,Unused Returned,NA,Like New/NA,Open Box/Minor Damage,All
+Entertainment,Speakers,2,Very Good,Unused Returned,NA,Like New/Minor Dent/Minor Scratches/Minor Damage/Minor Damage/Minor Missing Items/NA,Open Box/Minor Damage,All/Some/None/Fake/NA
+,,3,Good,Unused Returned/Used,NA,Like New/Minor Dent/Minor Scratches/Major Dent/Major Scratches/Minor Damage/Minor Missing Items/Major Missing Items//Visible Usage Marks Inside/NA,Open Box/Minor Damage/Major Damage,All/Some/None/Fake/NA
+,,4,Defective,Unused Returned/Used/Mismatch/Fake/Complete damage,NA,Like New/Minor Dent/Minor Scratches/Major Dent/Major Scratches/Minor Damage/Major Damage/Visible Usage Marks Inside/Major Items Missing/NA,Open Box/Minor Damage/Major Damage/Brown Box Available,All/Some/None/Fake/NA
+,,5,As-Is,Unused Returned/Used,NA,Like New/Minor Dent/Minor Scratches/Major Dent/Major Scratches/Minor Damage/Major Damage/Visible Usage Marks Inside/Major Items Missing/NA,Open Box/Minor Damage/Major Damage/Not Available/Brown Box Available,All/Some/None/Fake
+,,6,Not Tested,NA,NA,NA,NA,NA
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,End,,,,,,
+,,,,,,,,
+,,,,,,,,
+Communication,Smart Phones (OS Based),0,New,NA,NA,NA,Seal Pack,NA
+Entertainment,TV LCD,1,Open Box,Unused Returned,Functional,Like New/NA,Open Box/Minor Damage,All
+Large Appliances,Washing Machines,2,Very Good,Unused Returned,Functional,Like New/Minor Dent/Minor Scratches/Minor Damage/Minor Damage/Minor Missing Items/NA,Open Box/Minor Damage/Major Damage/Not Available/Brown Box Available,All/Some/None/Fake/NA
+,,3,Good,Unused Returned,Functional/Functional with Minor Defect,Like New/Minor Dent/Minor Scratches/Major Dent/Major Scratches/Minor Damage/Minor Missing Items/Major Missing Items//Visible Usage Marks Inside/NA,Open Box/Minor Damage/Major Damage/Not Available/Brown Box Available,All/Some/None/Fake/NA
+,,4,Defective,Unused Returned/Used/Mismatch/Fake/Complete damage,Defective/NA,Like New/Minor Dent/Minor Scratches/Major Dent/Major Scratches/Minor Damage/Major Damage/Visible Usage Marks Inside/Major Items Missing/NA,Open Box/Minor Damage/Major Damage/Not Available/Brown Box Available/NA,All/Some/None/Fake/NA
+,,5,As-Is,Unused Returned/Used,NA/Power On,Like New/Minor Dent/Minor Scratches/Major Dent/Major Scratches/Minor Damage/Major Damage/Visible Usage Marks Inside/Major Items Missing/NA,Open Box/Minor Damage/Major Damage/Not Available/Brown Box Available,All/Some/None/Fake/NA
+,,6,Not Tested,,NA,NA,NA,NA
+,,End,,,,,,

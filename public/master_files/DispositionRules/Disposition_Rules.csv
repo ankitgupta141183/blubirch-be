@@ -1,0 +1,35 @@
+Category L1,Category L2,Category L3,Brand,Model,Own Label,SKU,Rule Definition,Variable Properties,Limit-Price,Price-Operator,Price-Attr,Limit-Aging,Aging-Operator,Aging-Attr,Grade,Return-Reason,Disposition,Flow Name,Grade Precedence
+,,,,,Own Label,,Return-Reason,,,,,,,,AA,OL NER Approved,Redeploy,,1
+,,,,,Own Label,,Return-Reason,,,,,,,,AA,Ecom return,Redeploy,,1
+,,,,,Own Label,,Return-Reason,,,,,,,,AA,Ecom- Transit Damage,Redeploy,,1
+,,,,,Own Label,,Return-Reason,,,,,,,,AA,Transit Damage,Redeploy,,1
+,,,,,Own Label,,Return-Reason,,,,,,,,AA,OL Servify Approved,Redeploy,,1
+,,,,,Own Label,,Return-Reason,,,,,,,,AA,DC Damage,Redeploy,,1
+,,,,,Own Label,,Return-Reason,,,,,,,,AA,OL- Uncategorized products from Stores,Redeploy,,1
+,,,,,Own Label,,Return-Reason,,,,,,,,AA,Market Place,Redeploy,,1
+,,,,,Non Own Label,,Return-Reason,,,,,,,,AA,Brand Approved DOA,Redeploy,,1
+,,,,,Non Own Label,,Return-Reason,,,,,,,,AA,Store Empowerment - Transit Damage,Redeploy,,1
+,,,,,Non Own Label,,Return-Reason,,,,,,,,AA,Store Empowerment - Technical Defect,Redeploy,,1
+,,,,,Non Own Label,,Return-Reason,,,,,,,,AA,Display Defective,Redeploy,,1
+,,,,,Non Own Label,,Return-Reason,,,,,,,,AA,Transit Damage,Redeploy,,1
+,,,,,Non Own Label,,Return-Reason,,,,,,,,AA,Ecom- Transit Damage,Redeploy,,1
+,,,,,Non Own Label,,Return-Reason,,,,,,,,AA,Ecom return,Redeploy,,1
+,,,,,Non Own Label,,Return-Reason,,,,,,,,AA,DC Damage,Redeploy,,1
+,,,,,Non Own Label,,Return-Reason,,,,,,,,AA,Market Place,Redeploy,,1
+,,,,,Own Label,,Return-Reason,,,,,,,,Not Tested,OL NER Approved,RTV,,2
+,,,,,Own Label,,Return-Reason,,,,,,,,"A,B,C,D,Not Tested",Ecom return,Liquidation,,2
+,,,,,Own Label,,Return-Reason,,,,,,,,"A,B,C,D,Not Tested",Ecom- Transit Damage,Brand Call-Log,Flow 2,2
+,,,,,Own Label,,Return-Reason,,,,,,,,"A,B,C,D,Not Tested",Transit Damage,Brand Call-Log,Flow 2,2
+,,,,,Own Label,,Return-Reason,,,,,,,,"A,B,C,D,Not Tested",OL Servify Approved,Liquidation,,2
+,,,,,Own Label,,Return-Reason,,,,,,,,"A,B,C,D,Not Tested",DC Damage,Liquidation,,2
+,,,,,Own Label,,Return-Reason,,,,,,,,"A,B,C,D,Not Tested",OL- Uncategorized products from Stores,Brand Call-Log,Flow 2,2
+,,,,,Own Label,,Return-Reason,,,,,,,,"A,B,C,D,Not Tested",Market Place,Brand Call-Log,Flow 2,2
+,,,,,Non Own Label,,Return-Reason,,,,,,,,Not Tested,Brand Approved DOA,RTV,,2
+,,,,,Non Own Label,,Return-Reason,,,,,,,,"A,B,C,D",Store Empowerment - Transit Damage,Brand Call-Log,Flow 1,2
+,,,,,Non Own Label,,Return-Reason,,,,,,,,"A,B,C,D",Store Empowerment - Technical Defect,Brand Call-Log,Flow 1,2
+,,,,,Non Own Label,,Return-Reason,,,,,,,,"A,B,C,D",Display Defective,Brand Call-Log,Flow 1,2
+,,,,,Non Own Label,,Return-Reason,,,,,,,,"A,B,C,D",Transit Damage,Brand Call-Log,Flow 1,2
+,,,,,Non Own Label,,Return-Reason,,,,,,,,"A,B,C,D",Ecom- Transit Damage,Brand Call-Log,Flow 1,2
+,,,,,Non Own Label,,Return-Reason,,,,,,,,"A,B,C,D",Ecom return,Brand Call-Log,Flow 1,2
+,,,,,Non Own Label,,Return-Reason,,,,,,,,"A,B,C,D",DC Damage,Brand Call-Log,Flow 1,2
+,,,,,Non Own Label,,Return-Reason,,,,,,,,"A,B,C,D",Market Place,Brand Call-Log,Flow 1,2

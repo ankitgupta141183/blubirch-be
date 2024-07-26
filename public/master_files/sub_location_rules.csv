@@ -1,0 +1,737 @@
+Category (L2),Grade,Disposition,Return Reason,Brand
+Air Conditioners,AA,Brand Call-Log,OL NER Approved,Croma
+Air Conditioners,A,Insurance,Ecom return,Hitachi
+Dummies,B,RTV,Ecom- Transit Damage,Tp-Link
+Dishwashers,C,Replacement,Transit Damage,Apple
+Microwaves,D,Repair,OL Servify Approved,boAt
+Microwaves,Not Tested,Redeploy,DC Damage,Pebbles
+Refrigerators,,Liquidation,OL- Uncategorized products from Stores,fingers
+Refrigerators,,,Brand Approved DOA,Brilyant
+Refrigerators,,,Store Empowerment,Zebronics
+Refrigerators,,,Display Defective,Borosil
+Washing Machines,,,Transit Damage,RD Plast
+Washing Machines,,,Ecom- Transit Damage,Sony
+Washing Machines,,,Ecom return,Kutchina
+Dryers,,,DC Damage,Jabra
+Microwaves,,,,Staunch
+Microwaves,,,,Portronics
+Washing Machines,,,,TAGG
+Refrigerators,,,,Hisense
+Air Conditioners,,,,Titan
+Air Conditioners,,,,OnePlus
+Refrigerators,,,,RNG Eko Green
+Refrigerators,,,,R for Rabbit
+Refrigerators,,,,Sharp
+Air Conditioners,,,,Whirlpool
+Dishwashers,,,,Samsung
+Microwaves,,,,Voltas Beko
+Refrigerators,,,,HYPHEN
+Washing Machines,,,,KENT
+Dryers,,,,Noise
+Washing Machines,,,,Xiaomi
+Washing Machines,,,,Fire-Boltt
+Dummies,,,,Blue Star
+Dryers,,,,HP
+Dishwashers,,,,Panasonic
+Air Conditioners,,,,A. O. Smith
+Air Conditioners,,,,Realme
+Air Conditioners,,,,IFB
+Air Conditioners,,,,JBL
+Refrigerators,,,,LG
+Refrigerators,,,,Urbn
+Refrigerators,,,,Morphy Richards
+Refrigerators,,,,Seagate
+Washing Machines,,,,Lenovo
+Washing Machines,,,,Havells
+Refrigerators,,,,InBase
+Washing Machines,,,,Fujifilm
+Dishwashers,,,,Crossloop
+Dishwashers,,,,Bosch
+Washing Machines,,,,Swiss Military
+,,,,Modget
+Desktops,,,,PTron
+Smart Phones (OS Based),,,,Mycrofine
+Phones Mobile,,,,Candy
+Smart Phones (OS Based),,,,Philips
+Smart Phones (OS Based),,,,Natraj
+Phones Mobile,,,,Aquaguard
+Phones Mobile,,,,Amazon
+Smart Phones (OS Based),,,,NeoPack
+Phones Mobile,,,,Bose
+TV LCD,,,,Vaku Luxos
+TV LCD,,,,Nokia
+TV LCD,,,,Conekt
+TV LCD,,,,Saregama
+TV LCD,,,,Luminous
+TV LCD,,,,Dell
+TV LCD,,,,Liebherr
+TV CRT,,,,Powerup
+TV CRT,,,,Unigen
+TV CRT,,,,Lloyd
+TV CRT,,,,Bajaj
+TV CRT,,,,Usha
+TV Plasma,,,,Elica
+TV Plasma,,,,Livpure
+TV Plasma,,,,Pureit
+TV Plasma,,,,Rico
+Input Devices,,,,Fenda
+Mobile Computing,,,,Eureka Forbes
+Imaging Accessories,,,,Nestle
+Digital Cameras,,,,Sennheiser
+Mobile Computing,,,,O General
+Desktops,,,,Crompton
+Desktops,,,,MILTON
+Desktops,,,,Godrej
+Calculators,,,,Asus
+TV LCD,,,,Milcent
+Desktops,,,,Oppo
+Calculators,,,,Logitech
+Phones Mobile,,,,Infinity
+Phones Mobile,,,,Targus
+TV LCD,,,,Haier
+TV LCD,,,,Acer
+TV LCD,,,,Stuffcool
+TV LCD,,,,Kodak
+TV LCD,,,,SanDisk
+TV LCD,,,,Leaf
+TV LCD,,,,Scratchgard
+Digital Cameras,,,,Eleon
+Imaging Accessories,,,,Super General
+Imaging Accessories,,,,I KALL
+Digital Cameras,,,,TCL
+Digital Cameras,,,,IGear
+Digital Cameras,,,,Spigen
+DSLR Cameras,,,,Resonate
+Camcorders,,,,Red Gear
+Camcorders,,,,Razer
+Desktops,,,,QUIX
+Mobile Computing,,,,Daikin
+Monitors,,,,Tropicool
+Tablets & Detachables,,,,Preethi
+Monitors,,,,Harman Kardon
+Monitors,,,,Voltas
+Monitors,,,,Sunflame
+Desktops,,,,SafeStab
+Desktops,,,,Hammer
+Calculators,,,,Eveready
+Monitors,,,,XECH
+TV CRT,,,,NuvoMed
+Smart Phones (OS Based),,,,Dettol
+Tablets & Detachables,,,,Lifelong
+Mobile Computing,,,,Symphony
+Brand Free Mobiles,,,,Oakmist
+Smart Phones (OS Based),,,,V-Guard
+TV LCD,,,,Coffeeza
+TV LCD,,,,Syska
+Phones Mobile,,,,ZunVolt
+TV LCD,,,,Foxsky
+Smart Phones (OS Based),,,,Boompods
+Phones Mobile,,,,LAPCARE
+TV LCD,,,,eOnz
+Digital Cameras,,,,GM
+Desktops,,,,Travel Blue
+Mobile Computing,,,,Boult Audio
+Tablets & Detachables,,,,VIP
+Tablets & Detachables,,,,Racold
+Smart Phones (OS Based),,,,Mitsubishi Heavy
+DSLR Cameras,,,,D-Link
+TV LCD,,,,Faber
+Smart Phones (OS Based),,,,Bergmann
+DSLR Cameras,,,,Boss
+Digital Cameras,,,,MATATA
+Mobile Computing,,,,PowerMax
+Mobile Computing,,,,Balzano
+Mobile Computing,,,,Dr. Odin
+Mobile Computing,,,,Robobull
+Mobile Computing,,,,Ambrane
+Mobile Computing,,,,Wonderchef
+Mobile Computing,,,,Premier
+Phones Mobile,,,,Amazfit
+TV LCD,,,,DIZO
+Mobile Computing,,,,Esse
+Tablets & Detachables,,,,AKG
+Mobile Computing,,,,DJI
+Mobile Computing,,,,Onikuma
+Desktops,,,,Redmi
+Smart Phones (OS Based),,,,Voltmi
+Gaming Laptops,,,,Canon
+Monitors,,,,SJCAM
+Monitors,,,,Nikon
+Monitors,,,,Maxima
+Monitors,,,,Vivo
+Tablets & Detachables,,,,Hitachi-TV
+Gaming Laptops,,,,Black+Decker
+Gaming Laptops,,,,Amkette
+Smart Phones (OS Based),,,,Persang
+Lifestyle & Wearables,,,,Siemens
+Mobile Computing,,,,CROSSBEATS
+Smart Phones (OS Based),,,,Madcatz
+Smart Phones (OS Based),,,,Treeview
+Tablets & Detachables,,,,Digitek
+Tablets & Detachables,,,,Fossil
+PC Accessories,,,,CNS
+Lifestyle & Wearables,,,,LUMIFORD
+Lifestyle & Wearables,,,,Oakter
+Lifestyle & Wearables,,,,Beurer
+Phones Mobile,,,,Sky Bags
+Smart Phones (OS Based),,,,Kingston
+Smart Phones (OS Based),,,,Itel
+Smart Phones (OS Based),,,,Skywater
+Lifestyle & Wearables,,,,Ultraprolink
+Mobile Computing,,,,WD
+DSLR Cameras,,,,Manfrotto
+Lifestyle & Wearables,,,,HyperX
+Digital Cameras,,,,Macmerise
+Lifestyle & Wearables,,,,Netgear
+Lifestyle & Wearables,,,,Marshall
+Desktops,,,,NOVOO
+Lifestyle & Wearables,,,,Nextech
+Digital Cameras,,,,Edifier
+Digital Cameras,,,,Belkin
+Tablets & Detachables,,,,Fastrack
+Mobile Computing,,,,Skullcandy
+TV LCD,,,,Circle
+Desktops,,,,Jays
+Lifestyle & Wearables,,,,Moza
+TV LCD,,,,Flashgard
+Gaming Laptops,,,,arrow
+Refurbished Phones,,,,Juvo
+TV LCD,,,,Envie
+Lifestyle & Wearables,,,,APC
+Smart Phones (OS Based),,,,Tenda
+Tablets & Detachables,,,,PALO
+Mobile Computing,,,,XP-Pen
+Desktops,,,,Easyfone
+TV LCD,,,,itek
+Gaming Laptops,,,,MERCUSYS
+Smart Phones (OS Based),,,,Go Pro
+Smart Phones (OS Based),,,,Elgi
+Smart Phones (OS Based),,,,Google
+Smart Phones (OS Based),,,,Urban Ears
+Smart Phones (OS Based),,,,Blaupunkt
+Smart Phones (OS Based),,,,Ecovacs
+Smart Phones (OS Based),,,,Wings
+Smart Phones (OS Based),,,,Dyson
+Smart Phones (OS Based),,,,Arctic Fox
+Smart Phones (OS Based),,,,Hama
+Lifestyle & Wearables,,,,Insta360
+Tablets & Detachables,,,,Nedis
+Monitors,,,,Soundrevo
+TV LCD,,,,REALME
+,,,,Qubo
+Health & Personal Care,,,,Geek Circle
+Air Purifier,,,,Gripp
+Kitchen Appliances,,,,Pantum
+Kitchen Appliances,,,,Microsoft
+Fans,,,,Truke
+Fans,,,,bobo
+Fans,,,,Black & Decker
+Cooling & Heating Appliances,,,,Maharaja Whiteline
+Cooling & Heating Appliances,,,,KAFF
+Cookware,,,,COWAY
+Cookware,,,,Kenstar
+Kitchen Appliances,,,,Hindware
+Cookware,,,,ILIFE
+Cookware,,,,Russell Hobbs
+Health & Personal Care,,,,Carrier
+Health & Personal Care,,,,AMZER
+Health & Personal Care,,,,Carriall
+Kitchen Appliances,,,,Eaton
+Water Purifiers,,,,Midea
+Kitchen Appliances,,,,Milagrow
+Home Appliances,,,,VEGA
+Kitchen Appliances,,,,Toshiba
+Kitchen Appliances,,,,Shemaroo
+Kitchen Appliances,,,,AT&T
+Health & Personal Care,,,,Fuse Chicken
+Kitchen Appliances,,,,GOQii
+Water Purifiers,,,,Gizmore
+Tools,,,,HIFFIN
+Home Appliances,,,,SoundLogic
+Home Appliances,,,,TIMEX
+Ovens & Cookers,,,,Divoom
+Ovens & Cookers,,,,Cygnett
+Ovens & Cookers,,,,Ditto TV
+Power,,,,Deeray
+Power,,,,Carlton London
+Power,,,,Ideal
+Security,,,,Instant Pot
+Security,,,,PIGEON
+Security,,,,Agni Solar
+Security,,,,Aufla
+Security,,,,Swiss Eagle
+Security,,,,Norton
+Security,,,,Case-Mate
+Security,,,,Fitbit
+Security,,,,WatchOut
+Tools,,,,Quick Heal
+Health & Personal Care,,,,AirPlus
+Health & Personal Care,,,,SYSCOM
+Home Appliances,,,,MARC
+Dummies,,,,Wahl
+Phones Fixed,,,,Motorola
+Phones Fixed,,,,ViewSonic
+Phones Fixed,,,,Garmin
+Phones Fixed,,,,Envent
+Home Theatre,,,,CyberPower
+Home Theatre,,,,Sabichi
+Home Theatre,,,,Ultimate Ears
+Home Theatre,,,,Redragon
+Home Theatre,,,,Aristocrat
+Projectors,,,,Dr. Vaku
+Kits/Toys,,,,JLAB
+Portable BT Speakers/MP3 Players,,,,Hungama HiLife
+Portable BT Speakers/MP3 Players,,,,Carbonado
+Portable BT Speakers/MP3 Players,,,,Butterfly
+Audio Systems,,,,GODOX
+Audio Systems,,,,Xoopar
+Audio Systems,,,,BaByliss
+Home Theatre,,,,Thrustmaster
+Speakers,,,,Stanley
+Speakers,,,,Aquasure
+Audio Systems,,,,RODE
+Audio Systems,,,,Aeropostale
+Printers & Office Solutions,,,,SAMSUNG
+Printers & Office Solutions,,,,Ant E sports
+Printers & Office Solutions,,,,Adonis
+Printers & Office Solutions,,,,Marvel
+Tablets & Detachables,,,,Treo
+DVD/VCD/Content,,,,Fujitsu
+DVD/VCD/Content,,,,Vego
+DVD/VCD/Content,,,,SINGER
+Storage Media,,,,ONEPLUS
+Home Appliances,,,,Tyoon
+PC Accessories,,,,Mobvoi
+PC Accessories,,,,Sekyo
+Networking,,,,Goldmedal
+Personal Assistant Speaker,,,,Tefal
+Ovens & Cookers,,,,Kuvings
+Speakers,,,,iFFALCON
+Kitchen Appliances,,,,VIVO
+Security,,,,Tata Power EZ Home
+Audio Systems,,,,Duracell
+Audio Systems,,,,Glen
+Tools,,,,Polar
+Audio Systems,,,,Cisco
+PC Accessories,,,,Plantronic
+Home Theatre,,,,EUME
+Cooling & Heating Appliances,,,,Environics
+Water Purifiers,,,,Epson
+Home Theatre,,,,Energizer
+Gaming Software,,,,Claw
+Fans,,,,Blynk
+Musical Instruments,,,,ALOGIC
+Musical Instruments,,,,Zunpulse
+Kitchen Appliances,,,,UBISOFT
+Home Appliances,,,,Aiwa
+Phones Fixed,,,,NOKIA
+Printers & Office Solutions,,,,Square Enix
+Phones Fixed,,,,Element Case
+Audio Systems,,,,Forbes
+Home Theatre,,,,Zen
+Water Purifiers,,,,Venus
+Fans,,,,De'Longhi
+Cookware,,,,Finishing Touch Flawless
+Health & Personal Care,,,,Dr Physio
+Kitchen Appliances,,,,Hyperdrive
+Audio Systems,,,,OneOdio
+Ovens & Cookers,,,,Design Nest
+Security,,,,Airtel
+Tools,,,,Braun
+Home Appliances,,,,Magnox
+Personal Assistant Speaker,,,,Omron
+Phones Fixed,,,,Vinod
+Home Theatre,,,,Electrolux
+Projectors,,,,BenQ
+Speakers,,,,DMR
+Networking,,,,Bandridge
+Audio Systems,,,,Sortd
+Gaming Hardware,,,,STYX
+Power,,,,Kooltopp
+Printers & Office Solutions,,,,Bonita
+Kitchen Appliances,,,,Sensy
+Kitchen Appliances,,,,tag8
+Portable BT Speakers/MP3 Players,,,,KENWOOD
+Home Theatre,,,,Traveldoo
+Home Appliances,,,,Origin
+Ovens & Cookers,,,,Karcher
+Cookware,,,,SoundBot
+Water Purifiers RO,,,,sun king
+Cookware,,,,LocknLock
+Health & Personal Care,,,,LYFRO
+Projectors,,,,Hafele
+Kits/Toys,,,,Detel
+Cookware,,,,Aeroguard
+Gaming Hardware,,,,SKYVIK
+Gaming Software,,,,GROB
+Audio Systems,,,,Sphero
+Digital Cameras,,,,Oracura
+Audio Systems,,,,Orient
+Air Purifier,,,,Hamilton Beach
+Connected Homes & Housewares,,,,Kindle
+Water Purifiers,,,,XElectron
+Home Appliances,,,,Wipro
+Cooling & Heating Appliances,,,,AliveCor
+Air Purifier,,,,ShapeLed
+Health & Personal Care,,,,Rapoo
+Air Purifier,,,,Hungama
+Connected Homes & Housewares,,,,Micromax
+Connected Homes & Housewares,,,,ZEISS
+Health & Personal Care,,,,Xerox
+Connected Homes & Housewares,,,,EA
+Connected Homes & Housewares,,,,Forward
+Audio Systems,,,,Diesel
+Air Purifier,,,,Merlin
+Gaming Software,,,,SteelSeries
+Portable BT Speakers/MP3 Players,,,,Akai
+Connected Homes & Housewares,,,,Beats
+Connected Homes & Housewares,,,,Mirfak
+Connected Homes & Housewares,,,,WHITE SQUARE
+Consumables,,,,Allocacoc
+Personal Assistant Speaker,,,,Sonos
+Power,,,,Flair
+PC Accessories,,,,Anomeo
+Kitchen Appliances,,,,F&D
+Home Appliances,,,,Trovo
+Refurbished-PC,,,,Shokz
+Health & Personal Care,,,,Just Corseca
+Home Appliances,,,,National Geographic
+Fans,,,,JOBY
+Storage Media,,,,Onida
+Power,,,,iBall
+Speakers,,,,Peng Essentials
+Health & Personal Care,,,,SOUNDMAGIC
+Toys,,,,Vanguard
+Health & Personal Care,,,,Leather Talks
+Cooling & Heating Appliances,,,,Cuckoo
+Cooling & Heating Appliances,,,,Tucano
+Health & Personal Care,,,,WiWU
+Home Appliances,,,,TigerTech
+Kitchen Appliances,,,,Jaipan
+Pet Care,,,,Thonet & Vander
+Health & Personal Care,,,,Remington
+PC Accessories,,,,Emporio Armani
+Networking,,,,Eksa
+Home Appliances,,,,Soopii
+Printers & Office Solutions,,,,Boya
+Solar Appliances,,,,Tomtoc
+Gaming Consoles and Accessories,,,,Haden
+Gaming Consoles and Accessories,,,,Hohem
+Gaming Consoles and Accessories,,,,Huawei
+Gaming Consoles and Accessories,,,,Hyperice
+Gaming Consoles and Accessories,,,,ROIDMI
+Projectors,,,,Skech
+Gaming Consoles and Accessories,,,,eufy
+Gaming Consoles and Accessories,,,,HYUNDAI
+Health & Personal Care,,,,Devialet
+Personal Assistant Speaker,,,,Uniross
+Health & Personal Care,,,,TECNO
+Health & Personal Care,,,,Viomi
+Ovens & Cookers,,,,others
+Health & Personal Care,,,,ZHIYUN
+Projectors,,,,DRAV
+Connected Homes & Housewares,,,,Viacom
+Connected Homes & Housewares,,,,Cosmic Byte
+Projectors,,,,Atomberg
+Power,,,,Strontium
+,,,,Skagen
+PC Accessories,,,,CARRERA
+PC Accessories,,,,No Spec
+Travel Accessories,,,,Carlton
+PC Accessories,,,,Blue Air
+Phones Mobile Accessories,,,,COROS
+Phones Mobile Accessories,,,,Cangaroo
+Phones Mobile Accessories,,,,JK PAPERS
+Phones Mobile Accessories,,,,APPENDAGE
+Entertainment Accessories,,,,RAEGR
+Entertainment Accessories,,,,Reliance
+Entertainment Accessories,,,,RHA
+Entertainment Accessories,,,,Kodak Tv
+Entertainment Accessories,,,,Croma-Veira
+Entertainment Accessories,,,,Alesis
+Entertainment Accessories,,,,Honeywell
+Entertainment Accessories,,,,Ultra Prolink
+Entertainment Accessories,,,,RoadGods
+Entertainment Accessories,,,,Carnot
+Toys,,,,ANT AUDIO
+Toys,,,,Spherehot
+Toys,,,,The Souled Store
+MP3 Accessories,,,,Scosche
+MP3 Accessories,,,,Profigold
+Travel Accessories,,,,Carl Zeiss
+Imaging Accessories,,,,Wildcraft
+Imaging Accessories,,,,Back-Brainers
+Imaging Accessories,,,,Viaggi
+Networking,,,,Tata
+Gaming Hardware,,,,G-RAZER
+Input Devices,,,,Xeuce
+Input Devices,,,,NutriBullet
+Input Devices,,,,MEALTHY
+Networking,,,,Gamdias
+Gaming Hardware,,,,Scrik
+Gaming Hardware,,,,MuveAcoustics
+Gaming Software,,,,One Plus
+Entertainment Accessories,,,,Konix
+MP3 Accessories,,,,SVARAS
+Networking,,,,Emotix
+Storage Media,,,,UAG
+Earphones/Headphones,,,,Halonix
+Earphones/Headphones,,,,ARU
+Earphones/Headphones,,,,Ariel
+Earphones/Headphones,,,,PureSight
+Earphones/Headphones,,,,XGIMI
+Earphones/Headphones,,,,Ultra
+Travel Accessories,,,,Ricoh
+Travel Accessories,,,,Anchor
+Travel Accessories,,,,FINISH
+Gaming Hardware,,,,Equator Appliances
+PC Gaming,,,,American Tourister
+Gaming Hardware,,,,Yale
+Gaming Hardware,,,,Activision
+Gaming Hardware,,,,Eurodomo
+Gaming Hardware,,,,Kinetic UV Warrior
+Gaming Hardware,,,,STYX Neo
+Gaming Software,,,,Ahha
+Camcorders,,,,Kotion
+PC Accessories,,,,CABEAU
+PC Accessories,,,,Wacom
+Networking,,,,STORME
+Earphones/Headphones,,,,ANKER
+Phones Mobile Accessories,,,,Tally
+Earphones/Headphones,,,,Lowerpro
+Phones Mobile Accessories,,,,Mypurmist
+Phones Mobile Accessories,,,,Private Label
+PC Accessories,,,,Dr. TRUST
+Imaging Accessories,,,,Vu
+Tablets & Detachables,,,,Servify
+Gaming Hardware,,,,Enter
+Phones Mobile Accessories,,,,Hestia
+Imaging Accessories,,,,Saramonic
+Gaming Hardware,,,,JVC
+Batteries,,,,ACOOSTA
+Imaging Accessories,,,,Kuber Industries
+E-Readers,,,,Egate
+Entertainment Accessories,,,,Hero Lectro
+Phones Mobile Accessories,,,,AO Smith
+PC Accessories,,,,Casio
+Peripherals,,,,
+Storage Media,,,,
+Phones Mobile Accessories,,,,
+E-Readers,,,,
+Storage Media,,,,
+DSLR Cameras,,,,
+Tablets & Detachables,,,,
+Batteries,,,,
+Batteries,,,,
+Batteries,,,,
+Earphones/Headphones,,,,
+Travel Accessories,,,,
+Dummy Gaming Hardware,,,,
+Batteries,,,,
+Tablets & Detachables,,,,
+Tablets & Detachables,,,,
+Phones Mobile Accessories,,,,
+Earphones/Headphones,,,,
+Earphones/Headphones,,,,
+PC Accessories,,,,
+Networking,,,,
+Gaming Hardware,,,,
+Storage Media,,,,
+PC Accessories,,,,
+MP3 Accessories,,,,
+Entertainment Accessories,,,,
+Phones Mobile Accessories,,,,
+Entertainment Accessories,,,,
+Earphones/Headphones,,,,
+Travel Accessories,,,,
+Travel Accessories,,,,
+Imaging Accessories,,,,
+Phones Mobile Accessories,,,,
+Earphones/Headphones,,,,
+Imaging Accessories,,,,
+Gaming Software,,,,
+Printers & Office Solutions,,,,
+Earphones/Headphones,,,,
+Gaming Consoles and Accessories,,,,
+Gaming Consoles and Accessories,,,,
+Gaming Consoles and Accessories,,,,
+Gaming Consoles and Accessories,,,,
+Gaming Consoles and Accessories,,,,
+Gaming Consoles and Accessories,,,,
+Gaming Consoles and Accessories,,,,
+Gaming Consoles and Accessories,,,,
+Gaming Consoles and Accessories,,,,
+Earphones/Headphones,,,,
+Gaming Consoles and Accessories,,,,
+Earphones/Headphones,,,,
+E-Readers,,,,
+PC Accessories,,,,
+PC Accessories,,,,
+Networking,,,,
+,,,,
+Phones Mobile Accessories,,,,
+Phones Mobile Accessories,,,,
+Phones Mobile Accessories,,,,
+CD Hindi,,,,
+CD International,,,,
+Navigation Systems,,,,
+Mounts & Stands,,,,
+Mounts & Stands,,,,
+Mounts & Stands,,,,
+PC Gaming,,,,
+Gaming Software,,,,
+Gaming Software,,,,
+Gaming Software,,,,
+Gaming Software,,,,
+Toys,,,,
+Gaming Hardware,,,,
+Toys,,,,
+Imaging Accessories,,,,
+Dummy Laptop / Netbook / Tabs,,,,
+Computer Bags,,,,
+Mobile Computing,,,,
+Computer Bags,,,,
+Printers & Office Solutions,,,,
+Printers & Office Solutions,,,,
+Software,,,,
+Computer Consignments,,,,
+DSLR Cameras,,,,
+Mobile Computing,,,,
+CD Hindi,,,,
+CD Hindi,,,,
+DVD Bollywood,,,,
+DVD Hollywood,,,,
+DVD Hollywood,,,,
+DVD Hollywood,,,,
+DVD Regional,,,,
+DVD/VCD/Content,,,,
+DVD/VCD/Content,,,,
+DVD/VCD/Content,,,,
+Imaging Accessories,,,,
+DSLR Cameras,,,,
+VCD Bollywood,,,,
+VCD Hollywood,,,,
+VCD Hollywood,,,,
+VCD Hollywood,,,,
+VCD Regional,,,,
+Dummy Laptop / Netbook / Tabs,,,,
+Mobile Computing,,,,
+Mobile Computing,,,,
+Software,,,,
+CD Classical,,,,
+DSLR Cameras,,,,
+Imaging Accessories,,,,
+DVD/VCD/Content,,,,
+DSLR Cameras,,,,
+Mobile Computing,,,,
+Computer Bags,,,,
+Mobile Computing,,,,
+DVD Hollywood,,,,
+VCD Bollywood,,,,
+DVD/VCD/Content,,,,
+DVD Bollywood,,,,
+Printers & Office Solutions,,,,
+Computer Consignments,,,,
+Navigation Systems,,,,
+DVD Hollywood,,,,
+Computer Consignments,,,,
+Software,,,,
+CD International,,,,
+VCD Regional,,,,
+DVD Television,,,,
+CD Devotional,,,,
+Phones Mobile Providers,,,,
+DVD/VCD/Content,,,,
+Free Gifts,,,,
+Books,,,,
+Computer Bags,,,,
+Other Charges,,,,
+Other Charges,,,,
+Other Charges,,,,
+Other Charges,,,,
+DVD/VCD/Content,,,,
+Free Gifts,,,,
+Free Gifts,,,,
+Free Gifts,,,,
+Free Gifts,,,,
+Free Gifts,,,,
+Free Gifts,,,,
+Free Gifts,,,,
+Free Gifts,,,,
+Gift Card,,,,
+Spares,,,,
+Spares,,,,
+Spares,,,,
+Other Charges,,,,
+Other Charges,,,,
+ECharge,,,,
+Simcard,,,,
+Spares,,,,
+Shop in Shop,,,,
+Free Gifts,,,,
+Spares,,,,
+Shop in Shop,,,,
+Shop in Shop,,,,
+Shop in Shop,,,,
+Shop in Shop,,,,
+Shop in Shop,,,,
+ECharge,,,,
+ECharge,,,,
+ECharge,,,,
+ECharge,,,,
+ECharge,,,,
+Simcard,,,,
+Simcard,,,,
+Simcard,,,,
+Simcard,,,,
+Shop in Shop,,,,
+Imaging Accessories,,,,
+Shop in Shop,,,,
+Spares,,,,
+Simcard,,,,
+Simcard,,,,
+ECharge,,,,
+Croma Bags Plastic & Paper,,,,
+Dummy ENT LCD / LED / Plasma,,,,
+Dummy IMG Cameras / Camcorders,,,,
+Dummy Laptop / Netbook / Tabs,,,,
+Dummy Units Misc,,,,
+Computer Bags,,,,
+Computer Consignments,,,,
+Computer Consignments,,,,
+Phones Mobile Providers,,,,
+Mounts & Stands,,,,
+Free Gifts,,,,
+Phones Mobile Accessories,,,,
+GEEK Services,,,,
+Mobile Computing,,,,
+Phones Mobile Accessories,,,,
+Onsite Service,,,,
+CD Regional,,,,
+VCD Bollywood,,,,
+Digital Cameras,,,,
+Digital Cameras,,,,
+Camcorders,,,,
+Digital Cameras,,,,
+Simcard,,,,
+Dummies,,,,
+Onsite Service,,,,
+Gaming Laptops,,,,
+Simcard,,,,
+Travel Accessories,,,,
+Travel Accessories,,,,
+Gaming Laptops,,,,
+Other Charges,,,,
+Other Charges,,,,
+Other Charges,,,,
+Toys,,,,
+Gaming Consoles and Accessories,,,,
+Gaming Consoles and Accessories,,,,
+Gaming Consoles and Accessories,,,,
+Gaming Consoles and Accessories,,,,
+Gaming Consoles and Accessories,,,,
+Gaming Consoles and Accessories,,,,
+Gaming Consoles and Accessories,,,,
+Other Charges,,,,
+Mobile Computing,,,,
+Mobile Computing,,,,

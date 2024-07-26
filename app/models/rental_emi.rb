@@ -1,0 +1,2 @@
+class RentalEmi < ApplicationRecord
+end

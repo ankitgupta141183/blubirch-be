@@ -1,0 +1,2 @@
+class PushInbound < ApplicationRecord
+end

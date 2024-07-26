@@ -1,0 +1,17 @@
+Category L1,Category L2,Category L3,Category L4,Category L5,Category L6,Brand,Model,Rule Definition,Precedence,Output,Physical Status,Functional Status,Packaging Status
+Electronics and Appliances,Home Appliances,Electric Iron,,,,,,@Packaging,5,Restock,,,Seal Pack
+Others,Electrical product,Junction box,,,,,,@Physical && @Functional && @Packaging,2,RTV,"Like New,Minor Dent,Minor Scratches,Minor Damage,NA",Functional with Minor Defect,"Open Box,Minor Damage,Brown Box Available,Not Available"
+Electronics and Appliances,Personal care appliances,Healthcare appliance,,,,,,@Physical && @Packaging,1,E-Waste,"Like New ,Major Dent,Major Scratches,Major Damage,NA","Functional with Minor Defect,Defective,NA","Open Box,Minor Damage,Brown Box Available,Not Available"
+IT,Networking products,Modem,,,,,,@Physical && @Functional && @Packaging,3,Liquidation,"Like New,Minor Dent,Minor Scratches,Minor Damage,NA",Functional,"Open Box,Minor Damage,Brown Box Available,Not Available"
+IT,Networking products,Router,,,,,,@Physical && @Functional,4,Repair,"Like New,Minor Dent,Minor Scratches,Minor Damage,NA","Defective,NA","Open Box,Minor Damage,Brown Box Available,Not Available"
+IT,Networking products,Access Point,,,,,,,,,,,
+IT,Networking products,Range Extender,,,,,,,,,,,
+IT,Networking products,Switch,,,,,,,,,,,
+IT,Desktop and Laptop,Accessories Desktop and Laptop,Mouse,,,,,,,,,,
+IT,Desktop and Laptop,Accessories Desktop and Laptop,Others,,,,,,,,,,
+Electronics and Appliances,Mobiles and Tablets,Accessories mobiles and Tablets,Charger,,,,,,,,,,
+Electronics and Appliances,Personal care appliances,Hair Straightner,,,,,,,,,,,
+IT,Desktop and Laptop,Accessories Desktop and Laptop,Laptop Adapter/ Charger,,,,,,,,,,
+IT,Projector,,,,,,,,,,,,
+Others,Home Utility,Drilling machine,,,,,,,,,,,
+,,,,,,,,End,,,,,

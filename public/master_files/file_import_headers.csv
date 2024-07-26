@@ -1,0 +1,13 @@
+Name,Headers,Is Hash
+Invoice,Invoice Number,FALSE
+Invoice,Created Date,TRUE
+Invoice,Customer Name,TRUE
+Invoice,Order number,TRUE
+Invoice,Net Value,TRUE
+Invoice,Order Status,TRUE
+Invoice,CN Number,TRUE
+InvoiceInventoryDetail,Product Code/SKU,TRUE
+InvoiceInventoryDetail,Item Description,TRUE
+InvoiceInventoryDetail,Item Price,FALSE
+InvoiceInventoryDetail,Quantity,FALSE
+InvoiceInventoryDetail,Total Price,FALSE

@@ -1,0 +1,2 @@
+class ClientWarehouseVendor < ApplicationRecord
+end

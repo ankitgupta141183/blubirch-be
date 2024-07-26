@@ -1,0 +1,30 @@
+<!-- <!DOCTYPE html>
+<html>
+<head>
+	<title>
+		Escalation
+	</title>
+</head>
+<body>
+	Hi 
+  <br/><br/>
+  The following return request has been escalated to you so that it can move further in the process.
+  Following are the details fo the return request generated: 
+  <br/><br/>
+  Invoice Id: <%= @email_details['invoice_no'] %>
+  <br/>
+  Return Request Number: <%= @email_details['rrn_no'] %>
+  <br/>
+  Reason for return: <%=  @email_details['return_reason'] %>
+  <br/><br/>
+  Following is as sytem generated mail to smoothen the escalation process of return requests.
+</body>
+</html> -->
+
+<h4>Hi</h4>
+  
+<%= @result.html_safe %>
+
+<p>
+  Following is as sytem generated mail to smoothen the approval process of return requests.
+</p>

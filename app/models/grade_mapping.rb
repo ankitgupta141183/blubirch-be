@@ -1,0 +1,3 @@
+class GradeMapping < ClientSellerMapping
+
+end

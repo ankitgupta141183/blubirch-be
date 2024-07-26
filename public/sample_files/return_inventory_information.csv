@@ -1,0 +1,7 @@
+Reference Document,Reference Document Number,SKU Code,SKU Description,Serial Number,Quantity,Order Date,Item Amount,Total Amount,Customer Name,Customer Email,Customer Phone,Customer Address Line 1,Customer Address Line 2,Customer Address Line 3,Customer City,Customer State,Customer Country,Customer Pincode
+Invoice,1234567,100003,LG WINDOW AC 0.75T 09C1 AE1/F1,82A348384202043,1,05/05/2023,9000,9000,Alex,alex@yopmail.com,7760431231,#01,Lake City,,Bangalore,Karnataka,India,560076
+Invoice,1234567,100004,LG INV/AC 1T KSN-Q12AWZD 5S DMY,,2,05/05/2023,3500,1750,Alex,alex@yopmail.com,7760431231,#01,Lake City,,Bangalore,Karnataka,India,560076
+Purchase Order,345678,100008,SAMSUNG WINDOWAC 1T AWT12GBDDB,,10,05/05/2023,100000,10000,Rana,rana@yopmail.com,7760773212,#04,Muneshwara Layout,,Bangalore,Karnataka,India,560060
+Purchase Order,345678,100716,LG REF DC 185L-GL195NM5-COSINX,,5,05/05/2023,30000,6000,Rana,rana@yopmail.com,7760773212,#04,Muneshwara Layout,,Bangalore,Karnataka,India,560060
+,,100017,REDMI GO (1GB+8GB) RED,9FDHSKEDKSWK,1,05/05/2023,12725,12725,Dinesh,dinesh@yopmail.com,7707745678,#05,Krupa Layout,,Bangalore,Karnataka,India,560089
+,,100066,HUROM H-100 SLOW JUICER TITANIUM GREY,82A348384202043,1,05/05/2023,15282,15282,Sanjay,sanjay@yopmail.com,7707794384,#06,Srinidhi Layout,,Bangalore,Karnataka,India,560020

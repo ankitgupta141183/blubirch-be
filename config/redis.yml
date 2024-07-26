@@ -1,0 +1,6 @@
+development:
+  host: 'localhost'
+  port: '6379'
+production:
+  host: 'croma-redis1.ojat59.ng.0001.aps1.cache.amazonaws.com'  
+  port: '6379'

@@ -1,0 +1,7 @@
+Channel,Return Request Sub Type,Return Reason,Return Sub Reason,Item Location,Location ID,SKU Code,Serial Number,Reference Document,Reference Document Number,Quantity
+Offline,Refund Request,Defective or Damaged Product,Inappropriate Size,Customer,,100003,82A348384202043,Invoice,1234567,1
+Offline,Refund Request,Defective or Damaged Product,Inappropriate Size,Customer,,100004,,Invoice,1234567,1
+Offline,Refund Request,Defective or Damaged Product,Inappropriate Size,Customer,,100008,,Purchase Order,345678,2
+Offline,Refund Request,Defective or Damaged Product,Inappropriate Size,Customer,,100716,,Purchase Order,345678,1
+Offline,Refund Request,Defective or Damaged Product,Inappropriate Size,Customer,,100017,9FDHSKEDKSWK,,,1
+Offline,Refund Request,Defective or Damaged Product,Inappropriate Size,Customer,,100066,82A348384202043,,,1

@@ -1,0 +1,436 @@
+Name,Original Name,Active,Mandatory
+seller,Seller,0,0
+seller_code,Seller Code,0,0
+request_date,Request date,0,0
+request_id,Request ID,0,0
+inward_document_number,Inward document number,0,0
+city,City,0,1
+inward_date,Inward date,0,0
+inward_executive,Inward executive,0,0
+inward_executive_emp_id,Inward executive Emp ID,0,0
+tag_number,Tag Number,1,0
+inventory_id,Inventory ID,0,0
+category_l1,Category L1,0,1
+category_l2,Category L2,0,1
+category_l3,Category L3,0,0
+category_l4,Category L4,0,0
+category_l5,Category L5,0,0
+category_l6,Category L6,0,0
+category_l7,Category L7,0,0
+sku_code,SKU Code,1,1
+item_description,SKU Description,1,1
+brand,Brand,0,1
+model,Model,0,0
+sub_model_variant,Sub-Model/ Variant,0,0
+item_price,MRP (in INR),1,1
+special_price,Least Available price (in INR),0,1
+unit_packaging,Unit packaging,0,0
+set_size,Set Size,0,0
+year_of_manufacture,Year of Manufacture,0,0
+warranty_status,Warranty status,0,0
+ean_upc_number,EAN UPC number,0,0
+asin,Amazon's SKU Code,0,0
+fsn,Flipkart SKU Code,0,0
+screen_size_in_inches_monitor,Screen Size (in Inches) Monitor,0,0
+age_group,Age Group,0,0
+serial_number_1_electronic_app,Serial number 1 Electronic and Appliances,0,0
+serial_number_2_electronic_app,Serial number 2 Electronic and Appliances,0,0
+colour_fashion_style,Colour Fashion and Style,0,0
+serial_number_1_it,Serial number 1 IT,0,0
+serial_number_2_it,Serial number 2 IT,0,0
+os_desktop,OS Desktop,0,0
+hdd_in_gb_desktop,HDD (in GB) Desktop,0,0
+processor_desktop,Processor Desktop,0,0
+ram_in_gb_desktop,RAM (in GB) Desktop,0,0
+screen_size_in_inches_desktop,Screen Size (in Inches) Desktop,0,0
+ssd_in_gb_desktop,SSD (in GB) Desktop,0,0
+os_laptop,OS Laptop,0,0
+colour_laptop,Colour Laptop,0,0
+hdd_in_gb_laptop,HDD (in GB) Laptop,0,0
+processor_laptop,Processor Laptop,0,0
+ram_in_gb_laptop,RAM (in GB) Laptop,0,0
+screen_size_in_inches_laptop,Screen Size (in Inches) Laptop,0,0
+ssd_in_gb_laptop,SSD (in GB) Laptop,0,0
+fabric_apparel,Fabric Apparel,0,0
+fitting,Fitting,0,0
+pattern_apparel,Pattern Apparel,0,0
+size_apparel,Size Apparel,0,0
+sleeve,Sleeve,0,0
+weight_in_kg_bar,Weight (in KG) Bar,0,0
+weight_in_kg_dumbles,Weight (in KG) Dumbles,0,0
+weight_in_kg_iron_rod,Weight (in KG) Iron rod,0,0
+weight_in_kg_weights,Weight (in KG) Weights,0,0
+comp_with_home_app_accessories,Compatible with Home appliance accessories,0,0
+capacity_in_ml_kitchen_applian,Capacity (in ml) Kitchen Appliances,0,0
+capacity_tonnage_ac,Capacity (Tonnage) Air Conditioner,0,0
+power_rating_air_conditioner,Power rating Air Conditioner,0,0
+capacity_litres_air_cooler,Capacity (Litres) Air Cooler,0,0
+power_consumption_in_watts_air,Power Consumption (in watts) Air Cooler,0,0
+blade_length_in_cm,Blade length (in cm),0,0
+colour_ceiling_fan,Colour Ceiling Fan,0,0
+number_of_blades_ceiling_fan,Number of blades Ceiling Fan,0,0
+comp_with_home_app_spares,Compatible with Home appliance spares,0,0
+colour_speaker,Colour Speaker,0,0
+number_of_speakers,Number of speakers,0,0
+power_output_in_watts_speaker,Power output (in watts) Speaker,0,0
+sound_output_range_in_hz_speak,Sound output Range (in Hz) Speaker,0,0
+type_speaker,Type Speaker,0,0
+colour_table_fan,Colour Table fan,0,0
+number_of_blades_table_fan,Number of blades Table fan,0,0
+high_definition,High Definition,0,0
+power_rating_television,Power rating Television,0,0
+resolution_television,Resolution Television,0,0
+size_in_inch_television,Size (in inch) Television,0,0
+speaker_output_in_watts_televi,Speaker output (in watts) Television,0,0
+type_television,Type Television,0,0
+blower_function,Blower function,0,0
+suction_power_in_watts,Suction Power (in watts),0,0
+capacity_in_kg_washing_machine,Capacity ( in kg) Washing Machine,0,0
+power_consumption_in_watts_was,Power Consumption (in watts) Washing Machine,0,0
+power_rating_washing_machine,Power rating Washing Machine,0,0
+type_of_machine_function,Type of Machine Function,0,0
+type_of_machine_load,Type of Machine Load,0,0
+type_of_machine_washing,Type of Machine Washing,0,0
+washing_system,Washing System,0,0
+capacity_litres_water_heater,Capacity (Litres) Water Heater,0,0
+power_rating_water_heater,Power rating Water Heater,0,0
+flavour_tooth_paste,Flavour Tooth Paste,0,0
+weight_in_gms_tooth_paste,Weight (in Gms) Tooth paste,0,0
+comp_with_desk_lap_accessories,Compatible with Desktop & Laptop Accessories,0,0
+compatible_with_printer_access,Compatible with Printer accessories,0,0
+functions,Functions,0,0
+device_chipset,Device chipset,0,0
+distance_in_mtrs,Distance (in mtrs),0,0
+lamp_life_in_hours,Lamp life (in hours),0,0
+maximum_brightness_in_lm,Maximum Brightness (in lm),0,0
+resolution_projector,Resolution Projector,0,0
+storage_in_gb_server,Storage (in GB) Server,0,0
+comp_with_desk_lap_spares,Compatible with Desktop & Laptop Spares,0,0
+storage_in_gb_storage_products,Storage (in GB) Storage products,0,0
+back_up_in_mins,Back up (in mins),0,0
+battery,Battery,0,0
+capacity_in_va,Capacity (in VA),0,0
+comp_with_kitc_app_accessories,Compatible with Kitchen appliances accessories,0,0
+capacity_in_ml_food_processor,Capacity (in ml) Food processor,0,0
+number_of_jars_food_processor,Number of Jars Food Processor,0,0
+power_consumption_in_watts_foo,Power Consumption (in watts) Food processor,0,0
+power_consumption_in_watts_ind,Power Consumption (in watts) Induction plate,0,0
+capacity_in_ml_juicer_mixer_gr,Capacity (in ml) Juicer Mixer Grinder,0,0
+number_of_jars_juicer_mixer_gr,Number of Jars Juicer Mixer Grinder,0,0
+power_consumption_in_watts_jui,Power Consumption (in watts) Juicer Mixer Grinder,0,0
+capacity_litres_microwave,Capacity (Litres) Microwave,0,0
+power_consumption_in_watts_mic,Power Consumption (in watts) Microwave,0,0
+type_of_cooking,Type of cooking,0,0
+capacity_in_ml_mixer_grinder,Capacity (in ml) Mixer Grinder,0,0
+number_of_jars_mixer_grinder,Number of Jars Mixer Grinder,0,0
+power_consumption_in_watts_mix,Power Consumption (in watts) Mixer Grinder,0,0
+capacity_litres_refrigerator,Capacity (Litres) Refrigerator,0,0
+colour_refrigerator,Colour Refrigerator,0,0
+number_of_doors,Number of doors,0,0
+power_rating_refrigerator,Power rating refrigerator,0,0
+capacity_litres_rice_cooker,Capacity (Litres) Rice Cooker,0,0
+power_consumption_in_watts_ric,Power Consumption (in watts) Rice Cooker,0,0
+capacity_in_numbers_sandwitch_,Capacity (in numbers) Sandwitch Maker,0,0
+power_consumption_in_watts_san,Power Consumption (in watts) Sandwitch Maker,0,0
+type_of_sandwitch,Type of Sandwitch,0,0
+comp_with_kitc_app_spares,Compatible with Kitchen appliances Spares,0,0
+capacity_in_number_toaster,Capacity (in number) Toaster,0,0
+power_consumption_in_watts_toa,Power Consumption (in watts) Toaster,0,0
+capacity_litres_water_cooler,Capacity (Litres) Water Cooler,0,0
+capacity_litres_water_purifier,Capacity (Litres) Water Purifier,0,0
+type_of_technology,Type of technology,0,0
+fragarance_grooming_products,Fragarance Grooming products,0,0
+volume_in_ml_grooming_products,Volume (in ml) Grooming products,0,0
+weight_in_gms_grooming_product,Weight (in Gms) Grooming products,0,0
+type_of_material_mens_jeweller,Type of material Men's jewellery,0,0
+weight_in_gms_mens_jewellery,Weight (in Gms) Men's Jewellery,0,0
+size_in_number_mens_shoes,Size (in number) Men's shoes,0,0
+comp_with_mob_tab_accessories,Compatible with Mobiles & Tablets Accessories,0,0
+back_camera_in_mp_mobiles,Back Camera (in MP) Mobiles,0,0
+colour_mobiles,Colour Mobiles,0,0
+expandable_memory_in_gb_mobile,Expandable memory (in GB) Mobiles,0,0
+front_camera_in_mp_mobiles,Front Camera (in MP) Mobiles,0,0
+os_mobiles,OS Mobiles,0,0
+processor_mobiles,Processor Mobiles,0,0
+ram_in_gb_mobiles,RAM (in GB) Mobiles,0,0
+resolution_mobiles,Resolution Mobiles,0,0
+screen_size_in_inches_mobiles,Screen Size (in Inches) Mobiles,0,0
+storage_in_gb_mobiles,Storage (in GB) Mobiles,0,0
+comp_with_mob_tab_spares,Compatible with Mobiles & Tablets Spares,0,0
+back_camera_in_mp_tablets,Back Camera (in MP) Tablets,0,0
+colour_tablets,Colour Tablets,0,0
+expandable_memory_in_gb_tablet,Expandable memory (in GB) Tablets,0,0
+front_camera_in_mp_tablets,Front Camera (in MP) Tablets,0,0
+os_tablets,OS Tablets,0,0
+processor_tablets,Processor Tablets,0,0
+ram_in_gb_tablets,RAM (in GB) Tablets,0,0
+resolution_tablets,Resolution Tablets,0,0
+screen_size_in_inches_tablets,Screen Size (in Inches) Tablets,0,0
+storage_in_gb_tablets,Storage (in GB) Tablets,0,0
+part_number_automobile,Part Number Automobile,0,0
+volume_in_ml_cleaning,Volume (in ml) Cleaning,0,0
+weight_in_gms_cleaning,Weight (in Gms) Cleaning,0,0
+part_number_electrical,Part Number Electrical,0,0
+expiry_date,Expiry Date,0,0
+volume_in_ml_food_products,Volume (in ml) Food products,0,0
+weight_in_gms_food_products,Weight (in Gms) Food products,0,0
+colour_furniture,Colour Furniture,0,0
+material_furniture,Material furniture,0,0
+size_furniture,Size Furniture,0,0
+type_of_wood,Type of wood,0,0
+colour_home_furnishing,Colour Home furnishing,0,0
+fabric_furnishing,Fabric Furnishing,0,0
+pattern_furnishing,Pattern Furnishing,0,0
+size_home_furnishing,Size Home furnishing,0,0
+part_number_industrial_product,Part Number Industrial products,0,0
+colour_kitchenware,Colour Kitchenware,0,0
+material_kitchenware,Material Kitchenware,0,0
+size_kitchenware,Size Kitchenware,0,0
+volume_in_ml_kitchenware,Volume (in ml) Kitchenware,0,0
+colour_stationery,Colour Stationery,0,0
+size_stationery,Size Stationery,0,0
+hdd_in_gb_hard_disk,HDD (in GB) Hard Disk,0,0
+screen_size_in_inches_lcd_scre,Screen Size (in Inches) LCD Screen,0,0
+ram_in_gb_ram,RAM (in GB) RAM,0,0
+ssd_in_gb_ssd,SSD (in GB) SSD,0,0
+capacity_tonnage_ac_compressor,Capacity (Tonnage) Air Conditioner compressor,0,0
+colour_fan_blade,Colour Fan Blade,0,0
+colour_cycle,Colour Cycle,0,0
+gender,Gender,0,0
+size_cycle,Size Cycle,0,0
+fragarance_beauty,Fragarance Beauty,0,0
+volume_in_ml_beauty,Volume (in ml) Beauty,0,0
+weight_in_gms_beauty,Weight (in Gms) Beauty,0,0
+type_of_material_womens_jewell,Type of Material Women's jewellery,0,0
+weight_in_gms_womens_jewellery,Weight (in Gms) Women's Jewellery,0,0
+size_womens_shoes,Size Women's shoes,0,0
+remarks,Remarks,0,0
+storage_location,Storage Location,0,0
+warehouse,Storage sub-location,0,1
+test_date,Test date,0,0
+test_executive,Test executive,0,0
+functional_status,Functional status,0,0
+physical_status,Physical status,0,0
+packaging_status,Packaging status,0,0
+saleable_status,Saleable status,0,0
+grade,Grade,1,1
+qc_sampled,QC Sampled,0,0
+qc_date,QC date,0,0
+qc_executive,QC executive,0,0
+qc_status,QC status,0,0
+action_status,Action Status,0,0
+lot_no,Lot no.,0,0
+reserve_date,Reserve date,0,0
+outward_date,Outward date,0,0
+outward_document_number,Outward document number,0,0
+outward_party,Outward party,0,0
+outward_reason,Outward reason,0,0
+name,Name,0,0
+description,Description,0,0
+short_description,Short Description,0,0
+bundled_sku,Bundled SKU,0,0
+color,Color,0,0
+manufacturer,Manufacturer,0,0
+news_from_date,Set Product as New from Date,0,0
+news_to_date,Set Product as New to Date,0,0
+status,Status,0,0
+url_key,URL Key,0,0
+visibility,Visibility,0,0
+country_of_manufacture,Country of Manufacture,0,0
+dpa_report_id,DPA Report Id,0,0
+box_type,Product Condition,0,0
+liquidation_criteria,Liquidation Criteria,0,0
+reference_number,Ref No,0,0
+reward_points_pro,Reward Points,0,0
+open_amount_min,Open Amount Min Value,0,0
+open_amount_max,Open Amount Max Value,0,0
+group_price,Group Price,0,0
+special_from_date,Special Price From Date,0,0
+special_to_date,Special Price To Date,0,0
+cost,Cost,0,0
+tier_price,Tier Price,0,0
+msrp_enabled,Apply MAP,0,0
+msrp_display_actual_price_type,Display Actual Price,0,0
+msrp,Manufacturer's Suggested Retail Price,0,0
+tax_class_id,Tax Class,0,0
+price_view,Price View,0,0
+disable_amazonpayments,Disable Purchase with Amazon Payments,0,0
+meta_title,Meta Title,0,0
+meta_keywords,Meta Keywords,0,0
+meta_description,Meta Description,0,0
+image,Base Image,0,0
+small_image,Small Image,0,0
+thumbnail,Thumbnail,0,0
+media_gallery,Media Gallery,0,0
+gallery,Image Gallery,0,0
+is_recurring,Enable Recurring Profile,0,0
+recurring_profile,Recurring Payment Profile,0,0
+custom_design,Custom Design,0,0
+custom_design_from,Active From,0,0
+custom_design_to,Active To,0,0
+custom_layout_update,Custom Layout Update,0,0
+page_layout,Page Layout,0,0
+options_container,Display Product Options In,0,0
+gift_message_available,Allow Gift Message,0,0
+gift_wrapping_available,Allow Gift Wrapping,0,0
+gift_wrapping_price,Price for Gift Wrapping,0,0
+ebayCategoryId,eBay Category Id,0,0
+flipkart_feed_price,Flipkart Feed Price,0,0
+flipkart_feed_quantity,Flipkart Feed Quantity,0,0
+amazon_feed_price,Amazon Feed Price,0,0
+amazon_feed_quantity,Amazon Feed Quantity,0,0
+ebay_feed_price,eBay Feed Price,0,0
+ebay_feed_quantity,eBay Feed Quantity,0,0
+product_condition_id,eBay Product Condition Id,0,0
+product_country,eBay Product Country,0,0
+product_dispatch_time,eBay Product Dispatch Time,0,0
+product_duration,eBay Product Duration,0,0
+product_listing_type,eBay Product Listing Type,0,0
+product_email,eBay Product Email,0,0
+product_listing_detail,eBay Product Listing Details,0,0
+product_upc,eBay Product UPC,0,0
+product_item_information,eBay Product Item Information,0,0
+product_photo_url,eBay Product Photo Url,0,0
+product_return_policy,eBay Product Return Policy,0,0
+return_accepted_option,eBay Product Return Accepted Option,0,0
+product_refund_option,eBay Product Refund Option,0,0
+product_returns_with_option,eBay Product Returns With Option,0,0
+product_shipping,eBay Product Shipping,0,0
+shipping_service_option,eBay Product Shipping Service Option,0,0
+shipping_service_priority,eBay Product Shipping Service Priority,0,0
+shipping_service,eBay Product Shipping Service,0,0
+shipping_service_cost,eBay Product Shipping Service Cost,0,0
+product_add_item_cost,eBay Product Add Item Cost,0,0
+product_site,eBay Product Site,0,0
+product_price,Flipkart MRP,0,0
+product_listing_status,Flipkart Product Listing Status,0,0
+product_fulfilled_by,Flipkart Product Fulfilled By,0,0
+product_procurement_sla,Flipkart Product Procurement SLA,0,0
+local_shipping_charge,Flipkart Product Local Shipping Charge,0,0
+zonal_shipping_charge,Flipkart Product Zonal Shipping Charge,0,0
+national_shipping_charge,Flipkart Product National Shipping Charge,0,0
+dropship_by_seller,Flipkart Dropship By Seller,0,0
+ispec_brand,eBay Item Specifics Brand,0,0
+ispec_operating_system,eBay Item Specifics Operating System,0,0
+ispec_warranty,eBay Item Specifics Warranty,0,0
+key_features,Key Features,0,0
+features,Features,0,0
+system_memory,System memory,0,0
+ghraphics_processor,Graphics processor,0,0
+processor,Processor,0,0
+wifi,wifi,0,0
+navigation_technology,Navigation Technology,0,0
+bluetooth,Bluetooth,0,0
+preinstalled_browser,Preinstalled Browser,0,0
+audio_jack,Audio Jack,0,0
+front_facing_camera,Front Facing Camera,0,0
+rear_camera,Rear Camera,0,0
+hd_recording,HD Recording,0,0
+video_recording,Video Recording,0,0
+music_player,Music Player,0,0
+video_player,Video Player,0,0
+touch_screen,Touch Screen,0,0
+sim_type,sim-type,0,0
+sim,sim,0,0
+charging_via,Charging via ,0,0
+ram,Ram,0,0
+screen_size,Screen Size,0,0
+processor_frequency,Processor Frequency,0,0
+seller_warranty,Seller Warranty,0,0
+manufacturer_warranty,Manufacturer Warranty,0,0
+memory,Memory,0,0
+camera,Camera ,0,0
+sensors,sensors,0,0
+storage,Storage,0,0
+height,height,0,0
+depth,depth,0,0
+make,Make,0,0
+channel,Channel,0,0
+apparel_type,Type,0,0
+speed,Speed,0,0
+quality,Quality,0,0
+length,Length,0,0
+style,Style,0,0
+c_a_polarization_type,Polarization Type,0,0
+mens_clothing_size,Men Size,0,0
+consignment_id,Consignment ID,0,0
+consignment_receipt_date,Consignment receipt Date,0,0
+box_number,Box Number,0,0
+inward_document_number_invoice_or_dc,Inward document number (Invoice or DC),0,0
+quantity,Quantity,1,1
+client_sku_code,Client SKU Code,0,0
+lot_name,Lot name,0,0
+sales_price,Sales Price,0,0
+item_detail,Item detail,0,0
+compatible_sku_node,Compatible SKU Node,0,0
+compatible_sku_node_brand,Compatible SKU Node Brand,0,0
+compatible_sku_node_model,Compatible SKU Node Model,0,0
+part_number,Part Number,0,0
+serial_number,Serial Number 1,1,0
+serial_number_2,Serial Number 2,0,0
+capacity_tonnage,Capacity (Tonnage),0,0
+power_rating,Power Rating,0,0
+capacity_litres,Capacity (Litres),0,0
+power_watts,Power (Watts),0,0
+number_of_blades,Number of Blades,0,0
+length_of_blades,Length of Blades,0,0
+resolution_in_mega_pixel,Resolution in Mega Pixel,0,0
+optical_zoom,Optical Zoom,0,0
+connectivity_compatibility_internet_bluetooth_usb,"Connectivity Compatibility (Internet, Bluetooth, USB)",0,0
+storage_in_gb,Storage (in GB),0,0
+hdd_in_gb,HDD (in GB),0,0
+ssd_in_gb,SSD (in GB),0,0
+ram_in_gb,RAM (in GB),0,0
+resolution_in_axb,Resolution in (AXB),0,0
+back_camera_resolution_in_mp,Back Camera Resolution (in MP),0,0
+front_camera_resolution_in_mp,Front Camera Resolution (in MP),0,0
+music_playback_time_in_mins,Music Playback time (in mins),0,0
+processor_it,Processor (IT),0,0
+processor_mobile_tablet,Processor (Mobile & Tablet),0,0
+os_type_of_os_it,OS (Type of OS IT),0,0
+type_of_os_mobile,Type of OS (Mobile),0,0
+os_sticker,OS Sticker,0,0
+screen_size_in_inches,Screen Size (in Inches),0,0
+type_of_fabric,Type of Fabric,0,0
+fitting_apparel,Fitting Apparel,0,0
+weight_in_kg,Weight (in KG),0,0
+volume_or_capacity_in_ml,Volume or Capacity (in ml),0,0
+capacity_in_kg,Capacity ( in kg),0,0
+type_of_washing_machine_function,Type of Washing Machine Function,0,0
+type_of_wshing_machine_load,Type of Wshing Machine Load,0,0
+type_of_washing_machine_washing,Type of Washing Machine Washing,0,0
+flavour,Flavour,0,0
+weight_in_gms,Weight (in Gms),0,0
+functions_printer,Functions Printer,0,0
+device_chipset_projector,Device chipset projector,0,0
+distance_in_mtrs_projector,Distance (in mtrs) Projector,0,0
+lamp_life_in_hours_projector,Lamp life (in hours) Projector,0,0
+maximum_brightness_in_lm_projector,Maximum Brightness (in lm) Projector,0,0
+back_up_in_mins_ups,Back up (in mins) UPS,0,0
+battery_ups,Battery UPS,0,0
+capacity_in_va_ups,Capacity (in VA) UPS,0,0
+type_of_cooking_microwave,Type of cooking Microwave,0,0
+number_of_doors_refrigerator,Number of doors (Refrigerator),0,0
+capacity_in_number,Capacity (in number),0,0
+type_of_technology_water_purifier,Type of technology Water Purifier,0,0
+fragarance,Fragarance,0,0
+type_of_material_jewellery,Type of material jewellery,0,0
+size_shoes,Size shoes,0,0
+number_of_jars,Number of Jars,0,0
+power_bank_or_battery_capacity,Power Bank or Battery Capacity,0,0
+number_of_hdd,Number of HDD,0,0
+capacity,Capacity,0,0
+material,Material,0,0
+os,OS,0,0
+size,Size,0,0
+weight,Weight,0,0
+item_type,Item Type,0,0
+item_description_as_per_candidate_file,Item Description As per candidate file,0,0
+product_type,Product Type,0,0
+lot_description,Lot Description,0,0
+floor_price,Floor Price,0,0
+reserve_price,Reserve Price,0,0
+increment_slab,Increment Slab,0,0
+start_date,Start Date,0,0
+end_date,End Date,0,0
+image_urls,Image Urls,0,0

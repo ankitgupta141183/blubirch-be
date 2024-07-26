@@ -1,0 +1,116 @@
+Type,Attribute reason,Attribute Label,Attribute Type (text/select/multiselect),Attribute Options,Comment,is_active,Frame
+Base Attributes,Tracking,Seller,hidden,Seller.all,Can also be autofill if Seller code selected,FALSE,2
+Base Attributes,Tracking,Seller Code,hidden,Seller.all,Can also be autofill if Seller selected,FALSE,2
+Base Attributes,Tracking,Request date,hidden,,,TRUE,2
+Base Attributes,Tracking,Request ID,hidden,,,TRUE,2
+Base Attributes,Tracking,Consignment ID,hidden,,,TRUE,2
+Base Attributes,Tracking,Consignment receipt Date,hidden,,,TRUE,2
+Base Attributes,Tracking,Box Number,hidden,alphanumeric,,TRUE,2
+Base Attributes,Tracking,Inward document number (Invoice or DC),hidden,alphanumeric,,TRUE,2
+Base Attributes,Tracking,City,hidden,City.all,A city master needs to be made for major cities,FALSE,2
+Base Attributes,General,Inward date,hidden,,,TRUE,2
+Base Attributes,General,Inward executive,hidden,User.all,Give an others option to input for new employees not yet updated in master. Can also be autofill if Inward executive Emp ID selected,FALSE,2
+Base Attributes,General,Inward executive Emp ID,hidden,User.all,Give an others option to input for new employees not yet updated in master. Can also be autofill if Inward executive selected,TRUE,2
+Base Attributes,Identification,Tag Number,text,alphanumeric,,TRUE,2
+Base Attributes,Identification,Inventory ID,text,alphanumeric,,FALSE,2
+Base Attributes,Identification,SKU Code,Auto generated,Seller Master,,FALSE,2
+Base Attributes,Identification,SKU Description,Auto generated,Seller Master,,FALSE,2
+Base Attributes,Identification,Brand,text,alphanumeric,,TRUE,2
+Base Attributes,Identification,Model,text,alphanumeric,,TRUE,2
+Base Attributes,Identification,Sub-Model/ Variant,text,alphanumeric,,TRUE,2
+Base Attributes,Price,MRP (in INR),text,number,,TRUE,2
+Base Attributes,Price,Least Available price (in INR),text,number,,TRUE,2
+Base Attributes,Feature & specification,Unit packaging,select,"Individual, Set",,TRUE,2
+Base Attributes,Feature & specification,Set Size,text,number,,TRUE,2
+Base Attributes,General,Quantity,text,number,,TRUE,2
+Base Attributes,Feature & specification,Year of Manufacture,Year,,,TRUE,2
+Base Attributes,Feature & specification,Warranty status,select,"No warranty,1 month warranty,3 month warranty,6 month warranty,1 year warranty",Give an others option to input any uncommon warranty period not in select option,TRUE,2
+Base Attributes,Tracking,Client SKU Code,text,alphanumeric,,FALSE,2
+Base Attributes,Condition,Remarks,text,alphanumeric,,TRUE,3
+Base Attributes,Tracking,Storage Location,text,alphanumeric,,TRUE,1
+Base Attributes,Tracking,Storage sub-location,text,alphanumeric,,TRUE,1
+Base Attributes,General,Test date,date,,,TRUE,3
+Base Attributes,General,Test executive,hidden,User.all,Give an others option to input for new employees not yet updated in master,TRUE,3
+Base Attributes,Condition,Functional status,select,"Fully Functional, Power on test only, Functional with minor defects, Not tested (seal packed), Not tested, NA, Defective",,TRUE,3
+Base Attributes,Condition,Physical status,select,"Like New; Minor dents, scratches or color fading; Major dents, scratches or color fading; Major damages; Broken or Damaged; Not tested (seal packed)",,TRUE,3
+Base Attributes,Condition,Packaging status,select,"Seal Packed, Like new Original, Like new Others, Minor wear & tear Original, Minor wear & tear others, Major damages Original, Major damages others, Damaged, Not Packed",,TRUE,3
+Base Attributes,Condition,Saleable status,select,"Saleable, Pending for Audit",,TRUE,3
+Base Attributes,Condition,Grade,Auto generated,Will provide excel formulae,,TRUE,3
+Base Attributes,General,QC Sampled,select,"Yes, No",,TRUE,4
+Base Attributes,General,QC date,date,,,TRUE,4
+Base Attributes,General,QC executive,hidden,User.all,Give an others option to input for new employees not yet updated in master,TRUE,4
+Base Attributes,General,QC status,select,"Passed, Failed",,TRUE,4
+Base Attributes,General,Stowing date,date,,,TRUE,4
+Base Attributes,General,Stowing executive,hidden,User.all,Give an others option to input for new employees not yet updated in master,TRUE,4
+Base Attributes,General,Action Status,text,,,TRUE,5
+Base Attributes,General,Lot name,text,alphanumeric,,TRUE,5
+Base Attributes,Tracking,Reserve date,date,,,TRUE,5
+Base Attributes,Tracking,Outward date,date,,,TRUE,5
+Base Attributes,Tracking,Outward document number,text,alphanumeric,,TRUE,5
+Base Attributes,Price,Sales Price,text,number,,TRUE,5
+Base Attributes,Tracking,Outward party,select,Buyer Master,,TRUE,5
+Base Attributes,Tracking,Outward reason,text,alphanumeric,,TRUE,5
+Item attribute,Identification,Item detail,text,alphanumeric,,TRUE,2
+Item attribute,Feature & specification,Compatible SKU Node,text,alphanumeric,,TRUE,2
+Item attribute,Feature & specification,Compatible SKU Node Brand,text,alphanumeric,,TRUE,2
+Item attribute,Feature & specification,Compatible SKU Node Model,text,alphanumeric,,TRUE,2
+Item attribute,Identification,Part Number,text,alphanumeric,,TRUE,2
+Item attribute,Identification,Serial Number 1,text,alphanumeric,,TRUE,2
+Item attribute,Identification,Serial Number 2,text,alphanumeric,,TRUE,2
+Item attribute,Feature & specification,Capacity,text,float,,TRUE,2
+Item attribute,Feature & specification,Power Rating,text,number,,TRUE,2
+Item attribute,Feature & specification,Power (Watts),text,number,,TRUE,2
+Item attribute,Feature & specification,Number of Blades,text,number,,TRUE,2
+Item attribute,Feature & specification,Length of Blades,text,float,,TRUE,2
+Item attribute,Feature & specification,Color,select,"White,Ivory,Light yellow,Canary,Unmellow Yellow,Daffodil,Electric yellow,Yellow,Cream,Snow,Floral white,Lemon chiffon,Cosmic latte,Cornsilk,Lemon,Cadmium yellow,Seashell,Lemon Yellow,Lavender blush,Papaya whip,Canary yellow,Blanched Almond,Peach,Misty rose,Bisque,Banana yellow,Golden yellow,Navajo white,Mustard,Peach puff,School bus yellow,Gold,Pastel pink,Sunglow,Tangerine yellow,USC Gold,Deep peach,Topaz,Mikado yellow,Bubble gum,Pink,Amber,Fluorescent orange,Macaroni and Cheese,Cotton candy,Selective yellow,Cherry blossom pink,Light pink,Pastel orange,UCLA Gold,Yellow Orange,Dark tangerine,Chrome yellow,Carnation pink,Orange,Neon Carrot,Vivid tangerine,Light salmon,Orange peel,Light salmon pink,Atomic tangerine,Deep saffron,Salmon pink,Princeton orange,Salmon,Dark orange,Mango Tango,Coral,Fuchsia pink,Pumpkin,Ultra pink,Outrageous Orange,Hot pink,Pastel red,Safety orange,Rose pink,Tomato,Portland Orange,Brilliant rose,Red Orange,International orange,Orange red,Wild Strawberry,Coral red,Coquelicot,Radical Red,Razzle dazzle rose,Ferrari Red,Scarlet,Awesome,Hot magenta,Deep pink,Fluorescent pink,Candy apple red,American rose,Famous,Fuchsia,Magenta,Bright pink,Rose,Folly,Carmine,Electric crimson,Carmine red,Ruddy,Red,Laser Lemon,Bittersweet,Neon fuchsia,Purple pizzazz,Persian rose,Pastel yellow,Old lace,Aureolin,Piggy pink,Light apricot,Melon,Sunset Orange,Tractor red,Icterine,Golden poppy,Flamingo pink,Tickle Me Pink,Pink Flamingo,Wild Watermelon,Shocking pink,Corn,Maize,Apricot,Classic rose,Lavender pink,Lavender rose,Brink pink,Light goldenrod yellow,Linen,Blond,Antique white,Moccasin,Banana Mania,Peach yellow,Pale pink,Jonquil,Naples yellow,Stil de grain yellow,Champagne,Deep champagne,Sunset,Light fuchsia pink,Pale magenta,Tangelo,Rose bonbon,Ghost white,Magnolia,Jasmine,Orange Yellow,Coral pink,Flavescent,Pink Sherbet,Persian pink,Violet Red,Nadeshiko pink,French rose,Mint cream,White smoke,Beige,Wheat,Light Crimson,Isabelline,Saffron,Baby pink,Tea rose,Brilliant lavender,Electric lavender,Sandy brown,Pastel magenta,Fashion fuchsia,Hollywood cerise,Medium champagne,Vanilla,Anti-flash white,Munsell,Tangerine,Azure mist/web,Honeydew,Alice blue,Eggshell,Light khaki,Dandelion,Buff,Light coral,Almond,Mauvelous,Deep carmine pink,Pale goldenrod,Titanium yellow,Flax,Lavender magenta,Violet,Desert sand,Carrot orange,Cadmium orange,Pale spring bud,Sandstorm,Cerise pink,Carmine pink,Pearl,Arylide yellow,Hansa yellow,Dark salmon,Burnt sienna,Deep carrot orange,KU Crimson,Bubbles,Pink pearl,Dark pink,Glitter,Lavender,Lavender mist,Peridot,Pale gold,Light Thulian pink,Light carmine pink,Lust,Platinum,Meat brown,Fawn,Amaranth,Straw,Citrine,Gamboge,Fulvous,Candy pink,Bone,Indian yellow,Cinnabar,Vermilion,Alizarin crimson,Rose madder,Razzmatazz,Raspberry,Cadmium red,Terra cotta,Flame,Raspberry pink,Medium candy apple red,Urobilin,Earth yellow,Ruddy pink,Light cyan,Mauve,Tiger eye,CG Red,Ruby,Heliotrope,Phlox,Psychedelic purple,Burlywood,Tumbleweed,Thulian pink,Blush,Cerise,Cherry,Pale chestnut,Medium lavender magenta,Pale plum,Plum,Gainsboro,Pale lavender,Crimson,Timberwolf,Pale red violet,Pale violet red,Goldenrod,Harvest Gold,Pale copper,Orchid,Deep cerise,Vivid cerise,Persian orange,UA red,Thistle,Jasper,Dogwood rose,Debian red,Rich carmine,Languid lavender,Raw Sienna,Rosso corsa,Light gray,Utah Crimson,Tan,Chocolate,Cinnamon,Cocoa brown,Pear,Bright ube,Tea green,Pastel gray,Old gold,Sky magenta,Lava,Fire engine red,Antique brass,Bronze,Chestnut,Indian red,Dark coral,Tawny,Electric lime,Fluorescent yellow,Lavender blue,Periwinkle,Puce,Ochre,Fuzzy Wuzzy,Burnt orange,Dark terra cotta,Persian red,Deep magenta,Boston University Red,Satin sheen gold,Pastel violet,Brick red,Sinopia,Royal fuchsia,Medium spring bud,Pale silver,Wisteria,Harvard crimson,Lilac,Venetian red,Medium violet red,Red violet,Vegas gold,Mulberry,Lavender gray,Cardinal,Khaki,Bright maroon,Ecru,Sand,Dark pastel red,Camel,Desert,Fallow,Lion,Deep fuchsia,Silver,Old rose,Mahogany,Lemon lime,Lime,Bright lavender,Electric purple,Crimson glory,June bud,Dark khaki,Byzantine,Beau blue,Pale aqua,Pale taupe,Rosy brown,Ruddy brown,Medium red violet,Olive Green,Medium orchid,Deep chestnut,Dark goldenrod,Copper,University of California Gold,Opera mauve,Rose gold,Rust,Rich lilac,Brass,Turkish rose,Light brown,Fandango,Pastel purple,Light taupe,Raspberry rose,Carnelian,Cornell Red,Celeste,Inchworm,Ash grey,Firebrick,Light pastel purple,Powder blue,Ginger,Rich maroon,Pale blue,Medium carmine,Pale carmine,Pastel blue,Upsdell red,Mordant red 19,Green yellow,Moss green,Light blue,Blizzard Blue,Celadon,Pale cornflower blue,Rose vale,Magic mint,Rose quartz,Laurel green,Dark gray,Grullo,Deep carmine,Granny Smith Apple,Rufous,Spring bud,Caf� au lait,French beige,Auburn,Brown,Red brown,Jazzberry jam,Non-photo blue,Android Green,Dark candy apple red,Cambridge Blue,Wild blue yonder,Blue Bell,Baby blue eyes,Turquoise green,Chamoisee,Veronica,Beaver,Vivid burgundy,Vivid violet,Purple Mountain's Majesty,Columbia blue,Pale cerulean,Cornflower,Yellow green,Olivine,Carolina blue,Mountbatten pink,Amethyst,Copper rose,Golden brown,Deep lilac,Dark orchid,Crimson Red,Stizza,USC Cardinal,Mint green,Pale green,Cinereous,Bazaar,Pale brown,Dark chestnut,Manatee,Pale robin egg blue,Eton blue,Lavender purple,Purple mountain majesty,Drab,Mode beige,Sand dune,Sandy taupe,Dark pastel purple,Lavender indigo,Dark violet,Light cornflower blue,Pistachio,Medium purple,Smokey topaz,Vivid auburn,Cadet grey,Dark tan,Mauve taupe,Raspberry glace,Antique fuchsia,Light green,Rose taupe,Dark sea green,Electric violet,Apple green,Cool grey,Taupe gray,Saddle brown,Dark magenta,Dark red,Shadow,Twilight lavender,Burnt umber,Blue purple,Blue violet,Baby blue,Cordovan,Pearl Aqua,Ube,Sienna,Light sky blue,Sky blue,Asparagus,Boysenberry,Dark raspberry,French lilac,Dollar bill,Battleship grey,Pastel brown,Gray,Trolley Grey,Heart Gold,Olive,Russet,Falu red,Patriarch,Purple,Burgundy,Maroon,Aquamarine,Chartreuse,Electric blue,Lawn green,Medium slate blue,UP Maroon,Old lavender,Bole,Camouflage green,Royal purple,Pansy purple,Pastel green,Dark pastel blue,Light slate gray,Screamin Green,Mantis,Toolbox,Maya blue,Moonstone blue,Xanadu,Dark lavender,Wine,Fern,Slate gray,Deep coffee,Sepia,Byzantium,Persian plum,Coffee,Electric indigo,AuroMetalSaurus,Field drab,Olive Drab,Slate blue,Dim gray,Purple Heart,Palatinate purple,Medium taupe,Rose ebony,Old mauve,Bright green,Medium aquamarine,Blue Gray,Tuscan red,Halay� �be,Tyrian purple,Dark brown,Otter brown,Rosewood,Cornflower blue,Wenge,Umber,Eggplant,Glaucous,Majorelle Blue,Cadet blue,Air Force blue,Rackley,Dark byzantium,United Nations blue,Iris,Caput mortuum,Dark scarlet,Dark olive green,Davy grey,UCLA Blue,Dark electric blue,Payne grey,Cadet,Liver,Han purple,Emerald,Paris Green,Sap green,Purple taupe,Fern green,Feldgrau,Kelly green,Army green,Caf� noir,Indigo,Celestial blue,Hooker green,Medium turquoise,Dark slate blue,Dark lava,Dark taupe,Taupe,Bulgarian rose,Steel blue,Gray asparagus,Shamrock,Han blue,Verdigris,Tufts Blue,Royal blue,Ultramarine blue,Outer Space,Rifle green,Viridian,Harlequin,Electric ultramarine,Mint,Bistre,UFO Green,Medium sea green,Dark sienna,Neon green,Teal blue,Charcoal,Hunter green,Lime green,Violet Blue,Seal brown,Persian indigo,Bleu de France,Turquoise,Mountain Meadow,Dark slate gray,Sea green,Zinnwaldite brown,Napier green,Cerulean blue,Jungle green,Palatinate blue,Lapis lazuli,Saint Patrick Blue,Forest green,Ball Blue,Myrtle,Light sea green,Robin's Egg Blue,Dodger blue,Cal Poly Pomona green,Bright cerulean,Pacific Blue,Persian blue,Medium jungle green,Dark jungle green,Lincoln green,Midnight blue,MSU Green,Dark spring green,Denim,India green,Phthalo green,Ultramarine,Green Blue,Egyptian blue,Smoky black,Spiro Disco Ball,Sapphire,Yale Blue,Onyx,Blue green,Malachite,Tiffany Blue,Bright turquoise,Rich electric blue,La Salle Green,Dark cerulean,North Texas Green,Dark pastel green,Medium electric blue,Pine green,UP Forest green,Dark green,Aqua,Cyan,Electric cyan,Waterspout,Turquoise blue,Guppie green,Spring green,Electric green,Green,Medium spring green,Dark turquoise,Caribbean green,Capri,Deep sky blue,Jade,Shamrock green,Bondi blue,Islamic green,Dark cyan,Stormcloud,Teal,Ao,Office green,Azure,Cerulean,CG Blue,Ocean Boat Blue,Tropical rain forest,Skobeloff,True Blue,French blue,Brandeis blue,Teal green,Cadmium green,Bottle green,Sea blue,Dartmouth green,Medium Persian blue,Pakistan green,Sacramento State green,Medium teal blue,Deep jungle green,Midnight green,Cobalt,Warm black,British racing green,Rich black,Royal azure,UA blue,Dark powder blue,Smalt,Dark midnight blue,Prussian blue,International Klein Blue,Cool black,Oxford Blue,Zaffre,Phthalo blue,Blue,Medium blue,Duke blue,Dark blue,Navy blue,Black,Chrome,Multicoloured",A color master needs to be made for major cities,TRUE,2
+Item attribute,Feature & specification,Resolution in Mega Pixel,text,float,,TRUE,2
+Item attribute,Feature & specification,Optical Zoom,text,alphanumeric,,TRUE,2
+Item attribute,Feature & specification,Number of speakers,text,number,,TRUE,2
+Item attribute,Feature & specification,"Connectivity Compatibility (Internet, Bluetooth, USB)",multiselect,"Internet,Bluetooth,USB,Wired",,TRUE,2
+Item attribute,Feature & specification,Storage (in GB),text,float,,TRUE,2
+Item attribute,Feature & specification,HDD (in GB),text,float,,TRUE,2
+Item attribute,Feature & specification,SSD (in GB),text,float,,TRUE,2
+Item attribute,Feature & specification,RAM (in GB),text,float,,TRUE,2
+Item attribute,Feature & specification,Resolution in (AXB),text,alphanumeric,,TRUE,2
+Item attribute,Feature & specification,Back Camera Resolution (in MP),text,float,,TRUE,2
+Item attribute,Feature & specification,Front Camera Resolution (in MP),text,float,,TRUE,2
+Item attribute,Feature & specification,Music Playback time (in mins),text,float,,TRUE,2
+Item attribute,Feature & specification,Processor (IT),text,,,TRUE,2
+Item attribute,Feature & specification,Processor (Mobile & Tablet),text,,,TRUE,2
+Item attribute,Feature & specification,OS,select,"iOS,Windows,Linux,Android,iOS,Blackberry,Windows,Feature Phone,Others",,TRUE,2
+Item attribute,Feature & specification,OS Sticker,select,"Yes,No",,TRUE,2
+Item attribute,Feature & specification,Screen Size (in Inches),text,float,,TRUE,2
+Item attribute,Feature & specification,Age Group,text,,,TRUE,2
+Item attribute,Feature & specification,Type of Fabric,select,"Cotton,Polyster,Silk,Wollen,Acrylic,Nylon,Chiffon,Denim,Linen,Velvet,Rayon",,TRUE,2
+Item attribute,Feature & specification,Fitting Apparel,text,,,TRUE,2
+Item attribute,Feature & specification,Pattern Apparel,select,"Striped,Woven,Printed,Chequered,Polka print,Graphic,Geometric,Floral,Embroidery,Animal print,Plain",,TRUE,2
+Item attribute,Feature & specification,Size,text,,,TRUE,2
+Item attribute,Feature & specification,Sleeve,select,"Full,3/4th,Half,Roll up,Sleeveless",,TRUE,2
+Item attribute,Feature & specification,Weight,text,float,,TRUE,2
+Item attribute,Feature & specification,Power output (in watts) Speaker,text,number,,TRUE,2
+Item attribute,Feature & specification,Sound output Range (in Hz) Speaker,text,number,,TRUE,2
+Item attribute,Feature & specification,Type Television,select,"Plasma,LCD,LED",,TRUE,2
+Item attribute,Feature & specification,Blower function,select,"Yes,No",,TRUE,2
+Item attribute,Feature & specification,Suction Power (in watts),text,number,,TRUE,2
+Item attribute,Feature & specification,Type of Washing Machine Function,select,"Fully Automatic,Semi Automatic",,TRUE,2
+Item attribute,Feature & specification,Type of Wshing Machine Load,select,"Front Loading,Top Loading",,TRUE,2
+Item attribute,Feature & specification,Type of Washing Machine Washing,select,"Wash only,Wash and rinse,Wash rinse and dry",,TRUE,2
+Item attribute,Feature & specification,Washing System,select,"Agipellar,Pulsator,Tumble",,TRUE,2
+Item attribute,Feature & specification,Flavour,text,,,TRUE,2
+Item attribute,Feature & specification,Functions Printer,multiselect,"Print,Scan,Copy,Scan,fax Multifunction",,TRUE,2
+Item attribute,Feature & specification,Device chipset projector,select,"DLP, LCD, LED",,TRUE,2
+Item attribute,Feature & specification,Distance (in mtrs) Projector,text,float,,TRUE,2
+Item attribute,Feature & specification,Lamp life (in hours) Projector,text,float,,TRUE,2
+Item attribute,Feature & specification,Maximum Brightness (in lm) Projector,text,float,,TRUE,2
+Item attribute,Feature & specification,Resolution Projector,text,float,,TRUE,2
+Item attribute,Feature & specification,Back up (in mins) UPS,text,float,,TRUE,2
+Item attribute,Feature & specification,Battery UPS,text,,,TRUE,2
+Item attribute,Feature & specification,Type of cooking Microwave,select,"Convection, Grill, Solo",,TRUE,2
+Item attribute,Feature & specification,Number of doors (Refrigerator),text,number,,TRUE,2
+Item attribute,Feature & specification,Type of Sandwitch,select,"Toast, Grill, waffle",,TRUE,2
+Item attribute,Feature & specification,Type of technology Water Purifier,select,"Gravity, RO, UV, RO Plus UV",,TRUE,2
+Item attribute,Feature & specification,Fragarance,text,,,TRUE,2
+Item attribute,Feature & specification,Material,select,"Plastic,Stainless steel,Crockery,Fibre,Silver,Gold,Diamond,Platinum,Artificial,Wooden,Plastic,Steel,Wrought Iron,Aluminium",,TRUE,2
+Item attribute,Feature & specification,Number of Jars,text,number,,TRUE,2
+Item attribute,Feature & specification,Expiry Date,date,,,TRUE,2
+Item attribute,Feature & specification,Number of HDD,text,number,,TRUE,2

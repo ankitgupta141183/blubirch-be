@@ -1,0 +1,18 @@
+Name,Grading Required,Own Label,Position
+OL NER Approved,FALSE,TRUE,1
+Ecom return,TRUE,TRUE,2
+Ecom- Transit Damage,TRUE,TRUE,3
+Transit Damage,TRUE,TRUE,4
+OL Servify Approved,TRUE,TRUE,5
+DC Damage,TRUE,TRUE,6
+OL- Uncategorized products from Stores,TRUE,TRUE,7
+Market Place,TRUE,TRUE,8
+Brand Approved DOA,FALSE,FALSE,1
+Store Empowerment – Transit Damage,TRUE,FALSE,2
+Store Empowerment - Technical Defect,TRUE,FALSE,3
+Display Defective,TRUE,FALSE,4
+Transit Damage,TRUE,FALSE,5
+Ecom- Transit Damage,TRUE,FALSE,6
+Ecom return,TRUE,FALSE,7
+DC Damage,TRUE,FALSE,8
+Market Place,TRUE,FALSE,9

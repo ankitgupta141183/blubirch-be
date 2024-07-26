@@ -1,0 +1,2 @@
+class ClientManpowerVendor < ApplicationRecord
+end

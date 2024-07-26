@@ -1,0 +1,2 @@
+class ReturnCreationItem < ApplicationRecord
+end

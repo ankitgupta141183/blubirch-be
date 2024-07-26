@@ -1,0 +1,2 @@
+class ConsignmentDetail < ApplicationRecord
+end

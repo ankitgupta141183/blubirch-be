@@ -1,0 +1,37 @@
+Category L1,Category L2,Category L3,Brand,Model,Own Label,SKU,Rule Definition,Variable Properties,Limit-Price,Price-Operator,Price-Attr,Limit-Aging,Aging-Operator,Aging-Attr,Grade,Return-Reason,New Return-Reason,Disposition,Flow Name,New Disposition
+,,,,,Own Label,,Return-Reason,,,,,,,,All,NER Approved,OL NER Approved,RTV,Flow 4,RTV
+,,,,,Own Label,,Return-Reason,,,,,,,,All,Customer returns at stores - Lifetime Service,Store Empowerment,Liquidation,,Liquidation
+,,,,,Own Label,,Return-Reason,,,,,,,,All,Customer returns at stores - Store Empowerment,Store Empowerment,Liquidation,,Liquidation
+,,,,,Own Label,,Return-Reason,,,,,,,,All,Store approved replacement - Commercial,Store Empowerment,Liquidation,,Liquidation
+,,,,,Own Label,,Return-Reason,,,,,,,,All,Store approved replacement - CSAT/NPS,Store Empowerment,Liquidation,,Liquidation
+,,,,,Own Label,,Return-Reason,,,,,,,,All,Display damage/defective at store,Display Defective,Liquidation,,Liquidation
+,,,,,Own Label,,Return-Reason,,,,,,,,All,ECOM return-No question ask,Ecom return,Liquidation,,Liquidation
+,,,,,Own Label,,Return-Reason,,,,,,,,All,ECOM Return Pre delivery - Customer not available/Not contactable/ Mid-way cancellation,Ecom return,Liquidation,,Liquidation
+,,,,,Own Label,,Return-Reason,,,,,,,,All,ECOM Return Pre delivery - Customer refused,Ecom return,Liquidation,,Liquidation
+,,,,,Own Label,,Return-Reason,,,,,,,,All,ECOM return-Transit damage,Ecom- Transit Damage,Insurance,Brand Call log,Brand Call log
+,,,,,Own Label,,Return-Reason,,,,,,,,All,In Transit Damage (Home delivery),Transit Damage,Insurance,Brand Call log,Brand Call log
+,,,,,Own Label,,Return-Reason,,,,,,,,All,In-transit Damage-Store Delivery,Transit Damage,Insurance,Brand Call log,Brand Call log
+,,,,,Own Label,,Return-Reason,,,,,,,,All,OL-categorized at store/ECOM site,OL Servify Approved,Liquidation,,Liquidation
+,,,,,Own Label,,Return-Reason,,,,,,,,All,Damaged in DC,DC Damage,Liquidation,,Liquidation
+,,,,,Own Label,,Return-Reason,,,,,,,,All,Marketplace return,Ecom return,Liquidation,,Liquidation
+,,,,,Own Label,,Return-Reason,,,,,,,,All,E-Waste,E-Waste,E-Waste,,E-Waste
+,,,,,Non Own Label,,Return-Reason,,,,,,,,All,Brand Approved DOA,Brand Approved DOA,RTV,Flow 4,RTV
+,,,,,Non Own Label,,Return-Reason,,,,,,,,All,Customer returns at stores - Store Empowerment,Store Empowerment,Brand Call Log,Flow 1,Brand Call Log
+,,,,,Non Own Label,,Return-Reason,,,,,,,,All,Customer returns at stores - Lifetime Service,Store Empowerment,Brand Call Log,Flow 1,Brand Call Log
+,,,,,Non Own Label,,Return-Reason,,,,,,,,All,Store approved replacement-Commercial,Store Empowerment,Brand Call Log,Flow 1,Brand Call Log
+,,,,,Non Own Label,,Return-Reason,,,,,,,,All,Store approved replacement-CSAT/NPS,Store Empowerment,Brand Call Log,Flow 1,Brand Call Log
+,,,,,Non Own Label,,Return-Reason,,,,,,,,All,Display damage/defective at store,Display Defective,Brand Call Log,Flow 1,Brand Call Log
+,,,,,Non Own Label,,Return-Reason,,,,,,,,All,In Transit Damage (Home delivery),Transit Damage,Insurance,Brand Call Log,Brand Call Log
+,,,,,Non Own Label,,Return-Reason,,,,,,,,All,In-transit Damage-Store Delivery,Transit Damage,Insurance,Brand Call Log,Brand Call Log
+,,,,,Non Own Label,,Return-Reason,,,,,,,,All,ECOM return-Transit damage,Ecom- Transit Damage,Insurance,Brand Call Log,Brand Call Log
+,,,,,Non Own Label,,Return-Reason,,,,,,,,All,ECOM Return Pre delivery - Customer not available/Not contactable/ Mid-way cancellation,Ecom return,Brand Call Log,Flow 1,Brand Call Log
+,,,,,Non Own Label,,Return-Reason,,,,,,,,All,ECOM Return Pre delivery - Customer refused,Ecom return,Brand Call Log,Flow 1,Brand Call Log
+,,,,,Non Own Label,,Return-Reason,,,,,,,,All,ECOM return-No question ask,Ecom return,Brand Call Log,Flow 1,Brand Call Log
+,,,,,Non Own Label,,Return-Reason,,,,,,,,All,Damaged in DC,DC Damage,Brand Call Log,Flow 1,Brand Call Log
+,,,,,Non Own Label,,Return-Reason,,,,,,,,All,Marketplace return,Ecom return,Brand Call Log,Flow 1,Brand Call Log
+,,,,,Non Own Label,,Return-Reason,,,,,,,,All,E-Waste,E-Waste,E-Waste,E-Waste,E-Waste
+,,,,,Own Label,,Return-Reason,,,,,,,,All,New Inward reason,OL- Uncategorized products from Stores,Inspection Pending,,Brand Call Log/Inspection Pending
+,,,,,Non Own Label,,Return-Reason,,,,,,,,"B,C,D,E",Ecom- Transit Damage,Insurance,Flow 1,0,
+,,,,,Non Own Label,,Return-Reason,,,,,,,,"B,C,D,E",Ecom return,Brand Call-Log,Flow 1,0,
+,,,,,Non Own Label,,Return-Reason,,,,,,,,"B,C,D,E",DC Damage,Brand Call-Log,Flow 1,0,
+,,,,,Non Own Label,,Return-Reason,,,,,,,,"B,C,D,E",E-Waste,E-Waste,,0,

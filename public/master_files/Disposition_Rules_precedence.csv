@@ -1,0 +1,29 @@
+Category L1,Category L2,Category L3,Brand,Model,Own Label,SKU,Rule Definition,Variable Properties,Limit-Price,Price-Operator,Price-Attr,Limit-Aging,Aging-Operator,Aging-Attr,Grade,Return-Reason,Disposition,Flow Name,Grade Precedence
+,,,,,Own Label,,Return-Reason,,,,,,,,A,OL NER Approved,Redeploy,,1
+,,,,,Own Label,,Return-Reason,,,,,,,,A,Ecom return,Redeploy,,1
+,,,,,Own Label,,Return-Reason,,,,,,,,A,Ecom- Transit Damage,Redeploy,,1
+,,,,,Own Label,,Return-Reason,,,,,,,,A,Transit Damage,Redeploy,,1
+,,,,,Own Label,,Return-Reason,,,,,,,,A,OL Servify Approved,Redeploy,,1
+,,,,,Own Label,,Return-Reason,,,,,,,,A,DC Damage,Redeploy,,1
+,,,,,Own Label,,Return-Reason,,,,,,,,A,OL- Uncategorized products from Stores,Redeploy,,1
+,,,,,Non Own Label,,Return-Reason,,,,,,,,A,Brand Approved DOA,Redeploy,,1
+,,,,,Non Own Label,,Return-Reason,,,,,,,,A,Store Empowerment,Redeploy,,1
+,,,,,Non Own Label,,Return-Reason,,,,,,,,A,Display Defective,Redeploy,,1
+,,,,,Non Own Label,,Return-Reason,,,,,,,,A,Transit Damage,Redeploy,,1
+,,,,,Non Own Label,,Return-Reason,,,,,,,,A,Ecom- Transit Damage,Redeploy,,1
+,,,,,Non Own Label,,Return-Reason,,,,,,,,A,Ecom return,Redeploy,,1
+,,,,,Non Own Label,,Return-Reason,,,,,,,,A,DC Damage,Redeploy,,1
+,,,,,Own Label,,Return-Reason,,,,,,,,"B,C,D,E",OL NER Approved,Brand Call-Log,Flow 4,2
+,,,,,Own Label,,Return-Reason,,,,,,,,"B,C,D,E",Ecom return,Liquidation,,2
+,,,,,Own Label,,Return-Reason,,,,,,,,"B,C,D,E",Ecom- Transit Damage,Insurance,,2
+,,,,,Own Label,,Return-Reason,,,,,,,,"B,C,D,E",Transit Damage,Insurance,,2
+,,,,,Own Label,,Return-Reason,,,,,,,,"B,C,D,E",OL Servify Approved,Liquidation,,2
+,,,,,Own Label,,Return-Reason,,,,,,,,"B,C,D,E",DC Damage,Liquidation,,2
+,,,,,Own Label,,Return-Reason,,,,,,,,"B,C,D,E",OL- Uncategorized products from Stores,Brand Call-Log,Flow 2,2
+,,,,,Non Own Label,,Return-Reason,,,,,,,,"B,C,D,E",Brand Approved DOA,Brand Call-Log,Flow 4,2
+,,,,,Non Own Label,,Return-Reason,,,,,,,,"B,C,D,E",Store Empowerment,Brand Call-Log,Flow 1,2
+,,,,,Non Own Label,,Return-Reason,,,,,,,,"B,C,D,E",Display Defective,Brand Call-Log,Flow 1,2
+,,,,,Non Own Label,,Return-Reason,,,,,,,,"B,C,D,E",Transit Damage,Insurance,,2
+,,,,,Non Own Label,,Return-Reason,,,,,,,,"B,C,D,E",Ecom- Transit Damage,Insurance,,2
+,,,,,Non Own Label,,Return-Reason,,,,,,,,"B,C,D,E",Ecom return,Brand Call-Log,Flow 1,2
+,,,,,Non Own Label,,Return-Reason,,,,,,,,"B,C,D,E",DC Damage,Brand Call-Log,Flow 1,2
